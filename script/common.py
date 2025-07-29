@@ -1,5 +1,6 @@
 import requests
 import json
+import csv
 
 def fetch_json(url):
     response = requests.get(url)
@@ -15,3 +16,9 @@ def load_json(file_path):
 def write_json(file_path, data):
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
+
+def write_csv(file_path, data):
+    with open(file_path, 'w', newline='', encoding='utf-8-sig') as f:
+        writer = csv.DictWriter(f, fieldnames=data[0].keys())
+        writer.writeheader()
+        writer.writerows(data)
