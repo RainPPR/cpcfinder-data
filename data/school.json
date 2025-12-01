@@ -3,21 +3,21 @@
         "schoolId": "4dfe973a-47e8-4b7d-b732-f8be04718e35",
         "name": "北京大学",
         "maxRank": 1,
-        "championCount": 32,
-        "secCount": 14,
+        "championCount": 38,
+        "secCount": 15,
         "thiCount": 4,
-        "goldCount": 153,
-        "silverCount": 26,
+        "goldCount": 176,
+        "silverCount": 28,
         "bronzeCount": 1
     },
     {
         "schoolId": "f4648d78-c34b-4ab8-8a20-694c58c2aa8b",
         "name": "清华大学",
         "maxRank": 1,
-        "championCount": 18,
-        "secCount": 16,
+        "championCount": 19,
+        "secCount": 18,
         "thiCount": 9,
-        "goldCount": 137,
+        "goldCount": 154,
         "silverCount": 22,
         "bronzeCount": 5
     },
@@ -26,10 +26,10 @@
         "name": "浙江大学",
         "maxRank": 1,
         "championCount": 2,
-        "secCount": 11,
+        "secCount": 12,
         "thiCount": 8,
-        "goldCount": 121,
-        "silverCount": 33,
+        "goldCount": 131,
+        "silverCount": 41,
         "bronzeCount": 10
     },
     {
@@ -38,10 +38,10 @@
         "maxRank": 1,
         "championCount": 2,
         "secCount": 2,
-        "thiCount": 8,
-        "goldCount": 78,
-        "silverCount": 41,
-        "bronzeCount": 4
+        "thiCount": 9,
+        "goldCount": 89,
+        "silverCount": 46,
+        "bronzeCount": 5
     },
     {
         "schoolId": "6c84bfaf-6515-45c7-aa0a-87d24efdc968",
@@ -49,10 +49,10 @@
         "maxRank": 1,
         "championCount": 1,
         "secCount": 2,
-        "thiCount": 2,
-        "goldCount": 63,
-        "silverCount": 70,
-        "bronzeCount": 35
+        "thiCount": 3,
+        "goldCount": 71,
+        "silverCount": 81,
+        "bronzeCount": 38
     },
     {
         "schoolId": "7adb1ace-682c-4ebf-8f43-6fe30008cbf5",
@@ -61,9 +61,9 @@
         "championCount": 1,
         "secCount": 1,
         "thiCount": 1,
-        "goldCount": 19,
-        "silverCount": 52,
-        "bronzeCount": 42
+        "goldCount": 24,
+        "silverCount": 62,
+        "bronzeCount": 44
     },
     {
         "schoolId": "6474caac-e8dd-4b7e-a363-ab1d18e29111",
@@ -73,8 +73,8 @@
         "secCount": 0,
         "thiCount": 1,
         "goldCount": 21,
-        "silverCount": 41,
-        "bronzeCount": 40
+        "silverCount": 45,
+        "bronzeCount": 47
     },
     {
         "schoolId": "0c0783df-9146-4262-a41e-2fd4f6bf7e70",
@@ -83,9 +83,9 @@
         "championCount": 0,
         "secCount": 2,
         "thiCount": 3,
-        "goldCount": 66,
-        "silverCount": 82,
-        "bronzeCount": 35
+        "goldCount": 70,
+        "silverCount": 93,
+        "bronzeCount": 42
     },
     {
         "schoolId": "42f6f2ed-3fd8-4b86-84a4-bf2c13775708",
@@ -94,9 +94,42 @@
         "championCount": 0,
         "secCount": 2,
         "thiCount": 1,
-        "goldCount": 54,
-        "silverCount": 81,
-        "bronzeCount": 41
+        "goldCount": 63,
+        "silverCount": 89,
+        "bronzeCount": 44
+    },
+    {
+        "schoolId": "ac33a652-2564-4cc6-aef2-964baad15f9c",
+        "name": "电子科技大学",
+        "maxRank": 2,
+        "championCount": 0,
+        "secCount": 2,
+        "thiCount": 1,
+        "goldCount": 52,
+        "silverCount": 88,
+        "bronzeCount": 57
+    },
+    {
+        "schoolId": "f5ffabcf-8868-49da-b27a-d5e1dbf6c141",
+        "name": "复旦大学",
+        "maxRank": 2,
+        "championCount": 0,
+        "secCount": 2,
+        "thiCount": 1,
+        "goldCount": 50,
+        "silverCount": 55,
+        "bronzeCount": 23
+    },
+    {
+        "schoolId": "d8002193-c15a-4c33-83cc-0b0f369be5fa",
+        "name": "北京交通大学",
+        "maxRank": 2,
+        "championCount": 0,
+        "secCount": 2,
+        "thiCount": 1,
+        "goldCount": 24,
+        "silverCount": 34,
+        "bronzeCount": 48
     },
     {
         "schoolId": "b7f37f66-579e-4d0e-8bff-d5dca65eff32",
@@ -105,9 +138,9 @@
         "championCount": 0,
         "secCount": 2,
         "thiCount": 0,
-        "goldCount": 37,
-        "silverCount": 44,
-        "bronzeCount": 23
+        "goldCount": 45,
+        "silverCount": 54,
+        "bronzeCount": 26
     },
     {
         "schoolId": "6227d8bd-0ba9-45e3-850d-f2d9f6da4554",
@@ -115,10 +148,10 @@
         "maxRank": 2,
         "championCount": 0,
         "secCount": 1,
-        "thiCount": 2,
-        "goldCount": 66,
-        "silverCount": 72,
-        "bronzeCount": 27
+        "thiCount": 3,
+        "goldCount": 72,
+        "silverCount": 81,
+        "bronzeCount": 31
     },
     {
         "schoolId": "905a5ab5-4924-463b-84a1-4c441d00cf8b",
@@ -128,41 +161,8 @@
         "secCount": 1,
         "thiCount": 2,
         "goldCount": 22,
-        "silverCount": 26,
-        "bronzeCount": 48
-    },
-    {
-        "schoolId": "ac33a652-2564-4cc6-aef2-964baad15f9c",
-        "name": "电子科技大学",
-        "maxRank": 2,
-        "championCount": 0,
-        "secCount": 1,
-        "thiCount": 1,
-        "goldCount": 45,
-        "silverCount": 77,
-        "bronzeCount": 52
-    },
-    {
-        "schoolId": "d8002193-c15a-4c33-83cc-0b0f369be5fa",
-        "name": "北京交通大学",
-        "maxRank": 2,
-        "championCount": 0,
-        "secCount": 1,
-        "thiCount": 1,
-        "goldCount": 20,
-        "silverCount": 29,
-        "bronzeCount": 43
-    },
-    {
-        "schoolId": "f5ffabcf-8868-49da-b27a-d5e1dbf6c141",
-        "name": "复旦大学",
-        "maxRank": 2,
-        "championCount": 0,
-        "secCount": 1,
-        "thiCount": 0,
-        "goldCount": 37,
-        "silverCount": 50,
-        "bronzeCount": 23
+        "silverCount": 27,
+        "bronzeCount": 54
     },
     {
         "schoolId": "ddb000ba-d467-4640-9166-eb0da33a1c04",
@@ -171,9 +171,9 @@
         "championCount": 0,
         "secCount": 1,
         "thiCount": 0,
-        "goldCount": 9,
-        "silverCount": 8,
-        "bronzeCount": 20
+        "goldCount": 10,
+        "silverCount": 10,
+        "bronzeCount": 21
     },
     {
         "schoolId": "bca30630-c469-415c-9155-619407783b10",
@@ -182,9 +182,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 4,
-        "goldCount": 37,
-        "silverCount": 69,
-        "bronzeCount": 52
+        "goldCount": 38,
+        "silverCount": 76,
+        "bronzeCount": 60
     },
     {
         "schoolId": "99e6d252-b20e-445d-aff1-17aadf254e62",
@@ -192,10 +192,10 @@
         "maxRank": 3,
         "championCount": 0,
         "secCount": 0,
-        "thiCount": 2,
-        "goldCount": 35,
-        "silverCount": 53,
-        "bronzeCount": 54
+        "thiCount": 3,
+        "goldCount": 40,
+        "silverCount": 59,
+        "bronzeCount": 60
     },
     {
         "schoolId": "65ae0985-512d-4b16-9215-40f1c38a9508",
@@ -204,9 +204,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 2,
-        "goldCount": 21,
-        "silverCount": 21,
-        "bronzeCount": 15
+        "goldCount": 23,
+        "silverCount": 25,
+        "bronzeCount": 17
     },
     {
         "schoolId": "4a3ac863-b1ce-4ab0-b3c3-e6ec0e1805ce",
@@ -215,9 +215,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 1,
-        "goldCount": 35,
-        "silverCount": 62,
-        "bronzeCount": 58
+        "goldCount": 38,
+        "silverCount": 70,
+        "bronzeCount": 67
     },
     {
         "schoolId": "2018514e-3ba1-4ad4-a4ba-0ae6c1c3d74e",
@@ -226,9 +226,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 1,
-        "goldCount": 34,
-        "silverCount": 52,
-        "bronzeCount": 36
+        "goldCount": 35,
+        "silverCount": 59,
+        "bronzeCount": 37
     },
     {
         "schoolId": "df6185f8-75c2-43c1-9dc1-e0f19adb307c",
@@ -237,9 +237,20 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 1,
-        "goldCount": 19,
-        "silverCount": 57,
-        "bronzeCount": 50
+        "goldCount": 24,
+        "silverCount": 64,
+        "bronzeCount": 58
+    },
+    {
+        "schoolId": "c09d7713-b7d5-455d-833f-fd83d52728b7",
+        "name": "武汉大学",
+        "maxRank": 3,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 1,
+        "goldCount": 22,
+        "silverCount": 65,
+        "bronzeCount": 54
     },
     {
         "schoolId": "df0e7795-cb00-4d15-96b4-5f4fd1f1514d",
@@ -248,9 +259,20 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 1,
-        "goldCount": 15,
-        "silverCount": 47,
-        "bronzeCount": 54
+        "goldCount": 18,
+        "silverCount": 56,
+        "bronzeCount": 60
+    },
+    {
+        "schoolId": "469a3ee0-1469-4a17-b26d-f857a2539fe8",
+        "name": "东北大学",
+        "maxRank": 3,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 1,
+        "goldCount": 14,
+        "silverCount": 43,
+        "bronzeCount": 51
     },
     {
         "schoolId": "51cf4b3a-5e0c-481f-bf03-c08e43aac9f8",
@@ -259,9 +281,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 1,
-        "goldCount": 11,
-        "silverCount": 18,
-        "bronzeCount": 20
+        "goldCount": 12,
+        "silverCount": 19,
+        "bronzeCount": 24
     },
     {
         "schoolId": "cab20d63-d3fd-4b4f-afdf-4d3d4e7b8afd",
@@ -271,8 +293,8 @@
         "secCount": 0,
         "thiCount": 1,
         "goldCount": 10,
-        "silverCount": 37,
-        "bronzeCount": 43
+        "silverCount": 40,
+        "bronzeCount": 53
     },
     {
         "schoolId": "e4c26b2d-3498-478b-8d81-b165332632cc",
@@ -281,20 +303,20 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 27,
-        "silverCount": 56,
-        "bronzeCount": 45
+        "goldCount": 34,
+        "silverCount": 66,
+        "bronzeCount": 47
     },
     {
         "schoolId": "93b4d131-6f37-4ae5-8f15-2e4e9b9481e7",
         "name": "吉林大学",
-        "maxRank": 6,
+        "maxRank": 5,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 23,
-        "silverCount": 52,
-        "bronzeCount": 35
+        "goldCount": 26,
+        "silverCount": 61,
+        "bronzeCount": 41
     },
     {
         "schoolId": "3f0ceb9b-3253-4e4d-a61d-0d4a79644965",
@@ -303,20 +325,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 20,
-        "silverCount": 43,
-        "bronzeCount": 44
-    },
-    {
-        "schoolId": "c09d7713-b7d5-455d-833f-fd83d52728b7",
-        "name": "武汉大学",
-        "maxRank": 7,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 18,
-        "silverCount": 55,
-        "bronzeCount": 50
+        "goldCount": 21,
+        "silverCount": 51,
+        "bronzeCount": 49
     },
     {
         "schoolId": "e99b5aa2-5ede-420d-b4af-716740475bfb",
@@ -325,9 +336,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 18,
-        "silverCount": 31,
-        "bronzeCount": 31
+        "goldCount": 20,
+        "silverCount": 36,
+        "bronzeCount": 37
     },
     {
         "schoolId": "569eda98-da33-4a2b-9cac-51658fe53c57",
@@ -336,20 +347,9 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 17,
-        "silverCount": 46,
-        "bronzeCount": 59
-    },
-    {
-        "schoolId": "93cf8988-36cf-481d-bf65-710d6df47e3f",
-        "name": "浙江工业大学",
-        "maxRank": 5,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 16,
-        "silverCount": 49,
-        "bronzeCount": 60
+        "goldCount": 18,
+        "silverCount": 53,
+        "bronzeCount": 67
     },
     {
         "schoolId": "6567654a-f84c-4f14-9a3e-bce74715735d",
@@ -358,9 +358,53 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 16,
-        "silverCount": 43,
-        "bronzeCount": 35
+        "goldCount": 18,
+        "silverCount": 48,
+        "bronzeCount": 43
+    },
+    {
+        "schoolId": "93cf8988-36cf-481d-bf65-710d6df47e3f",
+        "name": "浙江工业大学",
+        "maxRank": 5,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 17,
+        "silverCount": 52,
+        "bronzeCount": 65
+    },
+    {
+        "schoolId": "599c6d1b-e19b-453e-ba3c-3c7ef263c78d",
+        "name": "福州大学",
+        "maxRank": 4,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 15,
+        "silverCount": 54,
+        "bronzeCount": 58
+    },
+    {
+        "schoolId": "de815de8-0c13-44cb-92b9-6ab19f42b89a",
+        "name": "中国人民大学",
+        "maxRank": 11,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 14,
+        "silverCount": 24,
+        "bronzeCount": 21
+    },
+    {
+        "schoolId": "41bef405-d89e-4a2f-bf11-ab343168b745",
+        "name": "西安电子科技大学",
+        "maxRank": 4,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 13,
+        "silverCount": 54,
+        "bronzeCount": 55
     },
     {
         "schoolId": "7712358d-6af1-4cab-bf68-c1d83336d141",
@@ -370,30 +414,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 13,
-        "silverCount": 47,
-        "bronzeCount": 54
-    },
-    {
-        "schoolId": "41bef405-d89e-4a2f-bf11-ab343168b745",
-        "name": "西安电子科技大学",
-        "maxRank": 4,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 12,
-        "silverCount": 49,
-        "bronzeCount": 50
-    },
-    {
-        "schoolId": "469a3ee0-1469-4a17-b26d-f857a2539fe8",
-        "name": "东北大学",
-        "maxRank": 4,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 12,
-        "silverCount": 40,
-        "bronzeCount": 45
+        "silverCount": 53,
+        "bronzeCount": 59
     },
     {
         "schoolId": "46aa7f73-1cd1-4df1-9477-f0ae2a67688c",
@@ -403,8 +425,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 12,
-        "silverCount": 29,
-        "bronzeCount": 43
+        "silverCount": 36,
+        "bronzeCount": 50
     },
     {
         "schoolId": "32be76a2-9416-48a7-a2af-3ded1b1e0326",
@@ -418,15 +440,15 @@
         "bronzeCount": 4
     },
     {
-        "schoolId": "599c6d1b-e19b-453e-ba3c-3c7ef263c78d",
-        "name": "福州大学",
-        "maxRank": 10,
+        "schoolId": "c6a5a737-54aa-440d-b1ec-a2a7038ff4be",
+        "name": "武汉理工大学",
+        "maxRank": 5,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 11,
-        "silverCount": 50,
-        "bronzeCount": 54
+        "silverCount": 18,
+        "bronzeCount": 45
     },
     {
         "schoolId": "e967b855-c768-42ae-b69d-243246af9e35",
@@ -436,8 +458,52 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 10,
-        "silverCount": 34,
-        "bronzeCount": 47
+        "silverCount": 36,
+        "bronzeCount": 55
+    },
+    {
+        "schoolId": "b3e3b649-7916-45c7-96af-ab0720625505",
+        "name": "广东工业大学",
+        "maxRank": 4,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 10,
+        "silverCount": 32,
+        "bronzeCount": 67
+    },
+    {
+        "schoolId": "92188e19-0ce8-4e59-9d19-7cb683859b3f",
+        "name": "厦门大学",
+        "maxRank": 11,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 10,
+        "silverCount": 31,
+        "bronzeCount": 39
+    },
+    {
+        "schoolId": "6cb2ec79-24d9-46ab-b8b8-827cef8c6954",
+        "name": "北京师范大学",
+        "maxRank": 4,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 10,
+        "silverCount": 16,
+        "bronzeCount": 34
+    },
+    {
+        "schoolId": "c8989f2c-4c80-4431-befa-b5d5677c0bb1",
+        "name": "同济大学",
+        "maxRank": 7,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 9,
+        "silverCount": 51,
+        "bronzeCount": 58
     },
     {
         "schoolId": "74a76658-f201-4bc5-bd43-8a6696a403cf",
@@ -447,52 +513,30 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 9,
-        "silverCount": 31,
-        "bronzeCount": 41
+        "silverCount": 36,
+        "bronzeCount": 45
     },
     {
-        "schoolId": "b3e3b649-7916-45c7-96af-ab0720625505",
-        "name": "广东工业大学",
-        "maxRank": 4,
+        "schoolId": "9f893535-d01f-4010-a09e-e4d6fdbc38a8",
+        "name": "西北工业大学",
+        "maxRank": 7,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 9,
-        "silverCount": 26,
+        "silverCount": 33,
         "bronzeCount": 61
     },
     {
-        "schoolId": "c6a5a737-54aa-440d-b1ec-a2a7038ff4be",
-        "name": "武汉理工大学",
-        "maxRank": 5,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 9,
-        "silverCount": 15,
-        "bronzeCount": 41
-    },
-    {
-        "schoolId": "92188e19-0ce8-4e59-9d19-7cb683859b3f",
-        "name": "厦门大学",
-        "maxRank": 11,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 8,
-        "silverCount": 26,
-        "bronzeCount": 36
-    },
-    {
-        "schoolId": "6cb2ec79-24d9-46ab-b8b8-827cef8c6954",
-        "name": "北京师范大学",
+        "schoolId": "b22215bc-bbbd-439e-8582-46f6ec2335f6",
+        "name": "国防科技大学",
         "maxRank": 4,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 8,
-        "silverCount": 15,
-        "bronzeCount": 30
+        "goldCount": 9,
+        "silverCount": 29,
+        "bronzeCount": 35
     },
     {
         "schoolId": "b4295b08-7378-4199-940c-1c996e695785",
@@ -502,19 +546,30 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 8,
-        "silverCount": 14,
-        "bronzeCount": 33
+        "silverCount": 23,
+        "bronzeCount": 36
     },
     {
-        "schoolId": "c8989f2c-4c80-4431-befa-b5d5677c0bb1",
-        "name": "同济大学",
+        "schoolId": "94f16374-2db2-4e03-91fe-8c8ccd7f9545",
+        "name": "湘潭大学",
         "maxRank": 12,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 7,
-        "silverCount": 45,
-        "bronzeCount": 52
+        "goldCount": 8,
+        "silverCount": 19,
+        "bronzeCount": 43
+    },
+    {
+        "schoolId": "707078ed-b818-4951-9d0b-3bfa941905d1",
+        "name": "香港科技大学（广州）",
+        "maxRank": 10,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 8,
+        "silverCount": 12,
+        "bronzeCount": 19
     },
     {
         "schoolId": "0d46328b-c01d-4dcd-83a2-c2934a19876e",
@@ -524,41 +579,19 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 7,
-        "silverCount": 28,
-        "bronzeCount": 41
+        "silverCount": 29,
+        "bronzeCount": 45
     },
     {
-        "schoolId": "b22215bc-bbbd-439e-8582-46f6ec2335f6",
-        "name": "国防科技大学",
-        "maxRank": 4,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 7,
-        "silverCount": 27,
-        "bronzeCount": 32
-    },
-    {
-        "schoolId": "de815de8-0c13-44cb-92b9-6ab19f42b89a",
-        "name": "中国人民大学",
+        "schoolId": "9c417252-c487-4eae-8822-fcd1e74b9329",
+        "name": "大连理工大学",
         "maxRank": 11,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 7,
-        "silverCount": 22,
-        "bronzeCount": 19
-    },
-    {
-        "schoolId": "9f893535-d01f-4010-a09e-e4d6fdbc38a8",
-        "name": "西北工业大学",
-        "maxRank": 7,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
         "goldCount": 6,
-        "silverCount": 30,
-        "bronzeCount": 50
+        "silverCount": 38,
+        "bronzeCount": 37
     },
     {
         "schoolId": "f051024a-ed81-46b1-9881-7bc4d1c7091b",
@@ -568,19 +601,19 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 6,
-        "silverCount": 14,
-        "bronzeCount": 41
+        "silverCount": 18,
+        "bronzeCount": 44
     },
     {
-        "schoolId": "94f16374-2db2-4e03-91fe-8c8ccd7f9545",
-        "name": "湘潭大学",
-        "maxRank": 12,
+        "schoolId": "b8cf2aed-b744-4d9c-b7fa-081370d067ab",
+        "name": "香港中文大学",
+        "maxRank": 6,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 6,
-        "silverCount": 14,
-        "bronzeCount": 37
+        "silverCount": 11,
+        "bronzeCount": 11
     },
     {
         "schoolId": "512c065b-5f1a-4b36-ab5a-95e5261bbc96",
@@ -591,7 +624,7 @@
         "thiCount": 0,
         "goldCount": 6,
         "silverCount": 10,
-        "bronzeCount": 32
+        "bronzeCount": 35
     },
     {
         "schoolId": "72359f96-1eac-4d1f-870d-5fd8a6537ea3",
@@ -601,19 +634,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 6,
-        "silverCount": 7,
-        "bronzeCount": 14
-    },
-    {
-        "schoolId": "9c417252-c487-4eae-8822-fcd1e74b9329",
-        "name": "大连理工大学",
-        "maxRank": 11,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 5,
-        "silverCount": 33,
-        "bronzeCount": 32
+        "silverCount": 8,
+        "bronzeCount": 16
     },
     {
         "schoolId": "c57d01c3-ecbd-4270-8c12-557b8d4035a7",
@@ -623,8 +645,41 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 5,
-        "silverCount": 23,
-        "bronzeCount": 25
+        "silverCount": 30,
+        "bronzeCount": 27
+    },
+    {
+        "schoolId": "6a8878c8-9728-4775-97b9-20e2b6b1f656",
+        "name": "兰州大学",
+        "maxRank": 14,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 5,
+        "silverCount": 22,
+        "bronzeCount": 28
+    },
+    {
+        "schoolId": "3801cd6e-5462-43ea-b737-4fcb86a35c77",
+        "name": "西湖大学",
+        "maxRank": 12,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 5,
+        "silverCount": 14,
+        "bronzeCount": 12
+    },
+    {
+        "schoolId": "5ea87742-e559-4aa6-ac44-f04a07d97d86",
+        "name": "湖南师范大学",
+        "maxRank": 15,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 5,
+        "silverCount": 12,
+        "bronzeCount": 33
     },
     {
         "schoolId": "002e5a8a-3909-4976-865c-6bbe36a2aa9d",
@@ -649,6 +704,28 @@
         "bronzeCount": 6
     },
     {
+        "schoolId": "5d4831be-cf74-4d55-98cd-f3f6cf45409c",
+        "name": "浙江理工大学",
+        "maxRank": 12,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 4,
+        "silverCount": 36,
+        "bronzeCount": 53
+    },
+    {
+        "schoolId": "94f6994d-8087-4127-8c9c-a153db360dd7",
+        "name": "东北大学秦皇岛分校",
+        "maxRank": 10,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 4,
+        "silverCount": 32,
+        "bronzeCount": 54
+    },
+    {
         "schoolId": "e8a4982c-bfe6-457a-8cb2-9c13c860314a",
         "name": "华中师范大学",
         "maxRank": 13,
@@ -656,84 +733,7 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 4,
-        "silverCount": 25,
-        "bronzeCount": 27
-    },
-    {
-        "schoolId": "6a8878c8-9728-4775-97b9-20e2b6b1f656",
-        "name": "兰州大学",
-        "maxRank": 14,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 4,
-        "silverCount": 20,
-        "bronzeCount": 23
-    },
-    {
-        "schoolId": "70538eaf-d323-4c88-abbc-4e39aa7fef83",
-        "name": "杭州电子科技大学信息工程学院",
-        "maxRank": 20,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 4,
-        "silverCount": 12,
-        "bronzeCount": 3
-    },
-    {
-        "schoolId": "5ea87742-e559-4aa6-ac44-f04a07d97d86",
-        "name": "湖南师范大学",
-        "maxRank": 16,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 4,
-        "silverCount": 11,
-        "bronzeCount": 27
-    },
-    {
-        "schoolId": "e2d598cd-a123-440f-a2c7-fe2764a51995",
-        "name": "华东理工大学",
-        "maxRank": 11,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 4,
-        "silverCount": 5,
-        "bronzeCount": 13
-    },
-    {
-        "schoolId": "8d422366-7f51-46e1-9e14-1fdfefb5b175",
-        "name": "北京建筑大学",
-        "maxRank": 14,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 4,
-        "silverCount": 4,
-        "bronzeCount": 3
-    },
-    {
-        "schoolId": "5d4831be-cf74-4d55-98cd-f3f6cf45409c",
-        "name": "浙江理工大学",
-        "maxRank": 12,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 3,
-        "silverCount": 32,
-        "bronzeCount": 46
-    },
-    {
-        "schoolId": "0290c072-88f2-425e-8f26-d492feafc887",
-        "name": "哈尔滨工业大学（威海）",
-        "maxRank": 13,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 3,
-        "silverCount": 17,
+        "silverCount": 28,
         "bronzeCount": 32
     },
     {
@@ -743,9 +743,75 @@
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
+        "goldCount": 4,
+        "silverCount": 17,
+        "bronzeCount": 31
+    },
+    {
+        "schoolId": "70538eaf-d323-4c88-abbc-4e39aa7fef83",
+        "name": "杭州电子科技大学信息工程学院",
+        "maxRank": 20,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 4,
+        "silverCount": 14,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "e2d598cd-a123-440f-a2c7-fe2764a51995",
+        "name": "华东理工大学",
+        "maxRank": 11,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 4,
+        "silverCount": 8,
+        "bronzeCount": 15
+    },
+    {
+        "schoolId": "8d422366-7f51-46e1-9e14-1fdfefb5b175",
+        "name": "北京建筑大学",
+        "maxRank": 14,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 4,
+        "silverCount": 6,
+        "bronzeCount": 4
+    },
+    {
+        "schoolId": "b896e9bf-2ef5-43d4-82a1-6b89b5b762ba",
+        "name": "南京信息工程大学",
+        "maxRank": 12,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 3,
+        "silverCount": 26,
+        "bronzeCount": 36
+    },
+    {
+        "schoolId": "0290c072-88f2-425e-8f26-d492feafc887",
+        "name": "哈尔滨工业大学（威海）",
+        "maxRank": 13,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 3,
+        "silverCount": 21,
+        "bronzeCount": 40
+    },
+    {
+        "schoolId": "89d59f62-c1bf-41f6-bb26-e8e0cfb03283",
+        "name": "浙大城市学院",
+        "maxRank": 17,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
         "goldCount": 3,
         "silverCount": 16,
-        "bronzeCount": 27
+        "bronzeCount": 47
     },
     {
         "schoolId": "a77ec843-1067-4b67-82ce-a6c382703a11",
@@ -756,40 +822,18 @@
         "thiCount": 0,
         "goldCount": 3,
         "silverCount": 15,
-        "bronzeCount": 15
+        "bronzeCount": 18
     },
     {
-        "schoolId": "89d59f62-c1bf-41f6-bb26-e8e0cfb03283",
-        "name": "浙大城市学院",
-        "maxRank": 17,
+        "schoolId": "3475d364-b579-4ea4-9dd2-4c66683d0129",
+        "name": "江西师范大学",
+        "maxRank": 18,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 3,
-        "silverCount": 14,
-        "bronzeCount": 45
-    },
-    {
-        "schoolId": "b8cf2aed-b744-4d9c-b7fa-081370d067ab",
-        "name": "香港中文大学",
-        "maxRank": 12,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 3,
-        "silverCount": 11,
-        "bronzeCount": 6
-    },
-    {
-        "schoolId": "707078ed-b818-4951-9d0b-3bfa941905d1",
-        "name": "香港科技大学（广州）",
-        "maxRank": 16,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 3,
-        "silverCount": 10,
-        "bronzeCount": 13
+        "silverCount": 7,
+        "bronzeCount": 19
     },
     {
         "schoolId": "a3a98315-eb05-43ae-b8c2-a09c19834d99",
@@ -800,18 +844,18 @@
         "thiCount": 0,
         "goldCount": 3,
         "silverCount": 7,
-        "bronzeCount": 6
+        "bronzeCount": 7
     },
     {
-        "schoolId": "3475d364-b579-4ea4-9dd2-4c66683d0129",
-        "name": "江西师范大学",
-        "maxRank": 18,
+        "schoolId": "73fe96bc-24e6-4938-b127-ed61d060350c",
+        "name": "济南大学",
+        "maxRank": 17,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 3,
         "silverCount": 6,
-        "bronzeCount": 17
+        "bronzeCount": 13
     },
     {
         "schoolId": "db8c7492-bd1e-469b-b9ab-9d4c285881ff",
@@ -822,29 +866,18 @@
         "thiCount": 0,
         "goldCount": 3,
         "silverCount": 4,
-        "bronzeCount": 3
+        "bronzeCount": 4
     },
     {
-        "schoolId": "94f6994d-8087-4127-8c9c-a153db360dd7",
-        "name": "东北大学秦皇岛分校",
-        "maxRank": 12,
+        "schoolId": "e87b54b3-fa89-4462-b665-fe8f0cb9ae58",
+        "name": "上海纽约大学",
+        "maxRank": 8,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
-        "goldCount": 2,
-        "silverCount": 29,
-        "bronzeCount": 48
-    },
-    {
-        "schoolId": "b896e9bf-2ef5-43d4-82a1-6b89b5b762ba",
-        "name": "南京信息工程大学",
-        "maxRank": 12,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 2,
-        "silverCount": 23,
-        "bronzeCount": 30
+        "goldCount": 3,
+        "silverCount": 0,
+        "bronzeCount": 5
     },
     {
         "schoolId": "6b6f72b1-b889-4fbc-a154-c0f3386ed101",
@@ -854,30 +887,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 2,
-        "silverCount": 16,
-        "bronzeCount": 16
-    },
-    {
-        "schoolId": "7c9e3f92-dcdf-42de-95a7-a7b78a7be16f",
-        "name": "东华大学",
-        "maxRank": 20,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 2,
-        "silverCount": 11,
-        "bronzeCount": 25
-    },
-    {
-        "schoolId": "3801cd6e-5462-43ea-b737-4fcb86a35c77",
-        "name": "西湖大学",
-        "maxRank": 24,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 2,
-        "silverCount": 11,
-        "bronzeCount": 10
+        "silverCount": 21,
+        "bronzeCount": 18
     },
     {
         "schoolId": "bf9c13bd-f692-4a61-8184-be8698a8e701",
@@ -887,8 +898,19 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 2,
-        "silverCount": 9,
-        "bronzeCount": 21
+        "silverCount": 13,
+        "bronzeCount": 23
+    },
+    {
+        "schoolId": "7c9e3f92-dcdf-42de-95a7-a7b78a7be16f",
+        "name": "东华大学",
+        "maxRank": 20,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 2,
+        "silverCount": 12,
+        "bronzeCount": 29
     },
     {
         "schoolId": "ae58760a-81c6-4989-b2bd-662c3e995645",
@@ -898,8 +920,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 2,
-        "silverCount": 9,
-        "bronzeCount": 13
+        "silverCount": 11,
+        "bronzeCount": 15
     },
     {
         "schoolId": "0828da3a-9f46-467c-95d1-36dbff5b7af6",
@@ -909,8 +931,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 2,
-        "silverCount": 8,
-        "bronzeCount": 24
+        "silverCount": 10,
+        "bronzeCount": 27
     },
     {
         "schoolId": "64a071d7-ce4b-465d-877a-a7ffa103d21b",
@@ -921,7 +943,7 @@
         "thiCount": 0,
         "goldCount": 2,
         "silverCount": 8,
-        "bronzeCount": 12
+        "bronzeCount": 15
     },
     {
         "schoolId": "91fbc3ba-1f86-44f6-a46c-e42f7c05a697",
@@ -931,8 +953,19 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 2,
-        "silverCount": 4,
+        "silverCount": 7,
         "bronzeCount": 10
+    },
+    {
+        "schoolId": "caa4260c-1498-4f76-9758-46e36b0372dc",
+        "name": "河南大学",
+        "maxRank": 18,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 2,
+        "silverCount": 5,
+        "bronzeCount": 21
     },
     {
         "schoolId": "691d815b-7371-48ea-acd5-41cddd1891b8",
@@ -943,7 +976,7 @@
         "thiCount": 0,
         "goldCount": 2,
         "silverCount": 2,
-        "bronzeCount": 9
+        "bronzeCount": 11
     },
     {
         "schoolId": "3df43955-f7d9-43af-9e8f-7547998f70cb",
@@ -957,17 +990,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "779e99de-91b8-4e65-a885-716bf0dbf31e",
-        "name": "武汉科技大学",
-        "maxRank": 16,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 1,
-        "silverCount": 18,
-        "bronzeCount": 23
-    },
-    {
         "schoolId": "71da3621-58b7-4fb3-96a4-724395f08257",
         "name": "河海大学",
         "maxRank": 18,
@@ -975,8 +997,41 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 1,
+        "silverCount": 21,
+        "bronzeCount": 42
+    },
+    {
+        "schoolId": "779e99de-91b8-4e65-a885-716bf0dbf31e",
+        "name": "武汉科技大学",
+        "maxRank": 16,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 1,
+        "silverCount": 21,
+        "bronzeCount": 24
+    },
+    {
+        "schoolId": "088feb28-4a61-412f-8f01-efa08d4c2d57",
+        "name": "杭州师范大学",
+        "maxRank": 22,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 1,
+        "silverCount": 16,
+        "bronzeCount": 42
+    },
+    {
+        "schoolId": "5f05a8d8-7120-4e7e-b3e1-8d526073361d",
+        "name": "浙江工商大学",
+        "maxRank": 20,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 1,
         "silverCount": 15,
-        "bronzeCount": 34
+        "bronzeCount": 39
     },
     {
         "schoolId": "cb60f46c-0c5b-4f97-a0ba-0d15eff374a5",
@@ -987,29 +1042,7 @@
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 15,
-        "bronzeCount": 32
-    },
-    {
-        "schoolId": "088feb28-4a61-412f-8f01-efa08d4c2d57",
-        "name": "杭州师范大学",
-        "maxRank": 22,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 1,
-        "silverCount": 13,
-        "bronzeCount": 37
-    },
-    {
-        "schoolId": "5f05a8d8-7120-4e7e-b3e1-8d526073361d",
-        "name": "浙江工商大学",
-        "maxRank": 23,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 1,
-        "silverCount": 13,
-        "bronzeCount": 35
+        "bronzeCount": 33
     },
     {
         "schoolId": "e47d565e-47ef-4901-9b37-465e9e5a5931",
@@ -1019,8 +1052,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 1,
-        "silverCount": 9,
-        "bronzeCount": 25
+        "silverCount": 13,
+        "bronzeCount": 29
     },
     {
         "schoolId": "c444b4a3-08af-44e1-b880-55c59e76300f",
@@ -1030,8 +1063,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 1,
-        "silverCount": 9,
-        "bronzeCount": 23
+        "silverCount": 12,
+        "bronzeCount": 26
     },
     {
         "schoolId": "304ab1ee-d180-4999-9710-f80e949dace6",
@@ -1052,8 +1085,19 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 1,
-        "silverCount": 7,
-        "bronzeCount": 22
+        "silverCount": 8,
+        "bronzeCount": 25
+    },
+    {
+        "schoolId": "0d254ecb-a189-4a51-9d89-c952fc73e59f",
+        "name": "浙江财经大学",
+        "maxRank": 22,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 1,
+        "silverCount": 8,
+        "bronzeCount": 14
     },
     {
         "schoolId": "a36263b9-312d-4889-b51b-483ef8044ad6",
@@ -1064,18 +1108,7 @@
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 7,
-        "bronzeCount": 16
-    },
-    {
-        "schoolId": "0d254ecb-a189-4a51-9d89-c952fc73e59f",
-        "name": "浙江财经大学",
-        "maxRank": 22,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 1,
-        "silverCount": 7,
-        "bronzeCount": 13
+        "bronzeCount": 17
     },
     {
         "schoolId": "0c9949bb-4191-4b91-bd49-ac676824169f",
@@ -1086,18 +1119,29 @@
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 6,
-        "bronzeCount": 26
+        "bronzeCount": 30
     },
     {
-        "schoolId": "73fe96bc-24e6-4938-b127-ed61d060350c",
-        "name": "济南大学",
-        "maxRank": 21,
+        "schoolId": "d0b52062-497a-4547-9364-1eb3077be160",
+        "name": "江苏大学",
+        "maxRank": 27,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 1,
+        "silverCount": 6,
+        "bronzeCount": 8
+    },
+    {
+        "schoolId": "17dc6229-1395-4c72-ad6f-d3034bb0f054",
+        "name": "东北师范大学",
+        "maxRank": 13,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 5,
-        "bronzeCount": 11
+        "bronzeCount": 38
     },
     {
         "schoolId": "40f11e0a-0641-4ada-a11f-c949cbd03377",
@@ -1130,18 +1174,18 @@
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 4,
-        "bronzeCount": 9
+        "bronzeCount": 11
     },
     {
-        "schoolId": "17dc6229-1395-4c72-ad6f-d3034bb0f054",
-        "name": "东北师范大学",
-        "maxRank": 13,
+        "schoolId": "0881384c-9d1c-4101-bab7-c7f935c129a0",
+        "name": "温州大学",
+        "maxRank": 26,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 3,
-        "bronzeCount": 34
+        "bronzeCount": 12
     },
     {
         "schoolId": "30f193f2-b775-4a8b-ab87-80deceed96cc",
@@ -1174,18 +1218,18 @@
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 2,
-        "bronzeCount": 12
+        "bronzeCount": 13
     },
     {
-        "schoolId": "d0b52062-497a-4547-9364-1eb3077be160",
-        "name": "江苏大学",
-        "maxRank": 27,
+        "schoolId": "79bd1b32-f7ca-406d-af2d-d38d4e61a45e",
+        "name": "东莞理工学院",
+        "maxRank": 28,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 2,
-        "bronzeCount": 7
+        "bronzeCount": 6
     },
     {
         "schoolId": "2d76a34a-ce81-4834-b9a7-280bcad51290",
@@ -1207,40 +1251,29 @@
         "thiCount": 0,
         "goldCount": 1,
         "silverCount": 1,
-        "bronzeCount": 6
-    },
-    {
-        "schoolId": "e87b54b3-fa89-4462-b665-fe8f0cb9ae58",
-        "name": "上海纽约大学",
-        "maxRank": 24,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 1,
-        "silverCount": 0,
-        "bronzeCount": 4
+        "bronzeCount": 7
     },
     {
         "schoolId": "3cd12edc-d0e3-4810-9116-a6721603e94d",
         "name": "深圳大学",
-        "maxRank": 24,
+        "maxRank": 23,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
-        "silverCount": 25,
-        "bronzeCount": 51
+        "silverCount": 28,
+        "bronzeCount": 60
     },
     {
         "schoolId": "00092246-56e7-477b-b427-f373d4f97832",
         "name": "重庆大学",
-        "maxRank": 20,
+        "maxRank": 19,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
-        "silverCount": 21,
-        "bronzeCount": 33
+        "silverCount": 23,
+        "bronzeCount": 42
     },
     {
         "schoolId": "a49a1a99-6aa6-41fb-8a9d-e7d9ea9b199c",
@@ -1250,8 +1283,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
-        "silverCount": 21,
-        "bronzeCount": 26
+        "silverCount": 22,
+        "bronzeCount": 29
     },
     {
         "schoolId": "de42b1b1-fd13-4705-92cf-d547d73435ff",
@@ -1272,8 +1305,8 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
-        "silverCount": 18,
-        "bronzeCount": 16
+        "silverCount": 19,
+        "bronzeCount": 20
     },
     {
         "schoolId": "1308e9e2-ecbb-401f-aad0-a679e1fea960",
@@ -1283,8 +1316,63 @@
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
-        "silverCount": 14,
+        "silverCount": 15,
+        "bronzeCount": 34
+    },
+    {
+        "schoolId": "a75a0a4b-1c6e-4843-a4b5-442f00b88743",
+        "name": "宁波大学",
+        "maxRank": 35,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 12,
         "bronzeCount": 30
+    },
+    {
+        "schoolId": "1896694e-97cd-43e8-b2ab-26f018ff51ab",
+        "name": "中国计量大学",
+        "maxRank": 35,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 12,
+        "bronzeCount": 23
+    },
+    {
+        "schoolId": "650a8241-7c45-464e-a249-012c7fedbe5a",
+        "name": "华南农业大学",
+        "maxRank": 23,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 11,
+        "bronzeCount": 34
+    },
+    {
+        "schoolId": "c2bdd3ce-3a6b-48af-8bd0-b3e8631b9347",
+        "name": "华南师范大学",
+        "maxRank": 29,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 11,
+        "bronzeCount": 34
+    },
+    {
+        "schoolId": "abdcff52-5aed-4a21-89c1-789b78c3ef72",
+        "name": "成都信息工程大学",
+        "maxRank": 29,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 11,
+        "bronzeCount": 33
     },
     {
         "schoolId": "5b47a589-9491-4ec3-8cfe-01967c4db52e",
@@ -1295,45 +1383,45 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 11,
-        "bronzeCount": 24
-    },
-    {
-        "schoolId": "1896694e-97cd-43e8-b2ab-26f018ff51ab",
-        "name": "中国计量大学",
-        "maxRank": 35,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 11,
-        "bronzeCount": 20
-    },
-    {
-        "schoolId": "650a8241-7c45-464e-a249-012c7fedbe5a",
-        "name": "华南农业大学",
-        "maxRank": 23,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 10,
-        "bronzeCount": 27
-    },
-    {
-        "schoolId": "a75a0a4b-1c6e-4843-a4b5-442f00b88743",
-        "name": "宁波大学",
-        "maxRank": 45,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 10,
-        "bronzeCount": 26
+        "bronzeCount": 28
     },
     {
         "schoolId": "ec007713-0821-41cc-848d-ab1467081f58",
         "name": "北京林业大学",
         "maxRank": 34,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 10,
+        "bronzeCount": 21
+    },
+    {
+        "schoolId": "483648cd-00e0-42b8-abd6-b830c48d88b9",
+        "name": "中国地质大学（北京）",
+        "maxRank": 33,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 9,
+        "bronzeCount": 29
+    },
+    {
+        "schoolId": "6e99cb39-1c45-4c9b-9ee2-2d4ec353a5b2",
+        "name": "南昌大学",
+        "maxRank": 29,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 9,
+        "bronzeCount": 20
+    },
+    {
+        "schoolId": "c779d5e5-36e8-4f9b-b8d4-3d5dbcfddbc7",
+        "name": "山东科技大学",
+        "maxRank": 14,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -1350,29 +1438,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 9,
-        "bronzeCount": 11
-    },
-    {
-        "schoolId": "abdcff52-5aed-4a21-89c1-789b78c3ef72",
-        "name": "成都信息工程大学",
-        "maxRank": 44,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 8,
-        "bronzeCount": 28
-    },
-    {
-        "schoolId": "483648cd-00e0-42b8-abd6-b830c48d88b9",
-        "name": "中国地质大学（北京）",
-        "maxRank": 33,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 8,
-        "bronzeCount": 27
+        "bronzeCount": 13
     },
     {
         "schoolId": "456775f0-7e18-4ffc-89ba-d6943b8f7eb3",
@@ -1383,29 +1449,40 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 8,
-        "bronzeCount": 25
+        "bronzeCount": 30
     },
     {
-        "schoolId": "6e99cb39-1c45-4c9b-9ee2-2d4ec353a5b2",
-        "name": "南昌大学",
-        "maxRank": 29,
+        "schoolId": "e0d87aa6-93e7-4d66-831b-51a9a52c5f5d",
+        "name": "西北大学",
+        "maxRank": 28,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 8,
-        "bronzeCount": 18
+        "bronzeCount": 23
     },
     {
-        "schoolId": "c779d5e5-36e8-4f9b-b8d4-3d5dbcfddbc7",
-        "name": "山东科技大学",
-        "maxRank": 14,
+        "schoolId": "a3bf3f9c-b80c-4955-a6cd-b2e46b6371ad",
+        "name": "西南财经大学",
+        "maxRank": 24,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 8,
-        "bronzeCount": 12
+        "bronzeCount": 11
+    },
+    {
+        "schoolId": "44ab4578-7acf-4fa7-9a40-3bbc4efb0692",
+        "name": "台州学院",
+        "maxRank": 41,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 8,
+        "bronzeCount": 10
     },
     {
         "schoolId": "5e02d4c8-df38-45da-af72-3cdedbca342e",
@@ -1416,23 +1493,12 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 7,
-        "bronzeCount": 29
+        "bronzeCount": 34
     },
     {
-        "schoolId": "c2bdd3ce-3a6b-48af-8bd0-b3e8631b9347",
-        "name": "华南师范大学",
-        "maxRank": 29,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 7,
-        "bronzeCount": 28
-    },
-    {
-        "schoolId": "e0d87aa6-93e7-4d66-831b-51a9a52c5f5d",
-        "name": "西北大学",
-        "maxRank": 28,
+        "schoolId": "355fb338-a373-4666-af09-463df286e246",
+        "name": "集美大学",
+        "maxRank": 31,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -1449,29 +1515,29 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 7,
-        "bronzeCount": 16
+        "bronzeCount": 19
     },
     {
-        "schoolId": "a3bf3f9c-b80c-4955-a6cd-b2e46b6371ad",
-        "name": "西南财经大学",
-        "maxRank": 24,
+        "schoolId": "5ee46948-5e07-40f5-9fae-77c442c498db",
+        "name": "中国传媒大学",
+        "maxRank": 23,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 7,
-        "bronzeCount": 10
+        "bronzeCount": 17
     },
     {
-        "schoolId": "44ab4578-7acf-4fa7-9a40-3bbc4efb0692",
-        "name": "台州学院",
+        "schoolId": "27b1f058-d7f4-4d93-b8bf-60e466e892cb",
+        "name": "湖北工业大学",
         "maxRank": 41,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 7,
-        "bronzeCount": 9
+        "bronzeCount": 14
     },
     {
         "schoolId": "834763dd-5120-4f70-9409-9bd25e32ac4b",
@@ -1482,7 +1548,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 7,
-        "bronzeCount": 6
+        "bronzeCount": 11
     },
     {
         "schoolId": "60a73209-3af1-4072-a384-41c4388651ed",
@@ -1493,7 +1559,18 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 6,
-        "bronzeCount": 29
+        "bronzeCount": 30
+    },
+    {
+        "schoolId": "6d8c75a0-f34e-4ada-910e-d780bfaa854b",
+        "name": "西南民族大学",
+        "maxRank": 43,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 6,
+        "bronzeCount": 19
     },
     {
         "schoolId": "e6fdaa20-c8b4-44d3-9d16-ce138cef0b36",
@@ -1515,7 +1592,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 6,
-        "bronzeCount": 15
+        "bronzeCount": 16
     },
     {
         "schoolId": "56626f2f-77da-4cf1-9d03-a5203eff3805",
@@ -1529,6 +1606,17 @@
         "bronzeCount": 14
     },
     {
+        "schoolId": "8aa1cba4-6d93-491a-b1e4-7a49ec1d637e",
+        "name": "长沙学院",
+        "maxRank": 28,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 6,
+        "bronzeCount": 13
+    },
+    {
         "schoolId": "376a022e-0331-4f82-b881-031db0e26e3b",
         "name": "合肥工业大学宣城校区",
         "maxRank": 28,
@@ -1540,26 +1628,15 @@
         "bronzeCount": 12
     },
     {
-        "schoolId": "27b1f058-d7f4-4d93-b8bf-60e466e892cb",
-        "name": "湖北工业大学",
-        "maxRank": 41,
+        "schoolId": "e8c60b52-1b58-41bc-8cbd-bd71ceacb492",
+        "name": "中国矿业大学（北京）",
+        "maxRank": 31,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 6,
-        "bronzeCount": 12
-    },
-    {
-        "schoolId": "8aa1cba4-6d93-491a-b1e4-7a49ec1d637e",
-        "name": "长沙学院",
-        "maxRank": 28,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 6,
-        "bronzeCount": 12
+        "bronzeCount": 10
     },
     {
         "schoolId": "26b71562-e060-41bd-a3e5-39faab1cdc6a",
@@ -1570,7 +1647,18 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 6,
-        "bronzeCount": 9
+        "bronzeCount": 10
+    },
+    {
+        "schoolId": "2f2d72bf-0e16-4148-b9eb-5c1bee327eae",
+        "name": "北京科技大学",
+        "maxRank": 24,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 6,
+        "bronzeCount": 8
     },
     {
         "schoolId": "765932f0-18a7-4451-a115-d60347c77714",
@@ -1584,28 +1672,6 @@
         "bronzeCount": 24
     },
     {
-        "schoolId": "b9c3c49b-3c9d-4ea5-bf49-08cc3001cf20",
-        "name": "齐鲁工业大学（山东省科学院）",
-        "maxRank": 29,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 5,
-        "bronzeCount": 22
-    },
-    {
-        "schoolId": "6d8c75a0-f34e-4ada-910e-d780bfaa854b",
-        "name": "西南民族大学",
-        "maxRank": 43,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 5,
-        "bronzeCount": 19
-    },
-    {
         "schoolId": "077f8a8b-9e35-4e16-96f0-abeb145cab14",
         "name": "郑州轻工业大学",
         "maxRank": 39,
@@ -1614,34 +1680,67 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 5,
-        "bronzeCount": 19
+        "bronzeCount": 23
     },
     {
-        "schoolId": "355fb338-a373-4666-af09-463df286e246",
-        "name": "集美大学",
-        "maxRank": 31,
+        "schoolId": "b9c3c49b-3c9d-4ea5-bf49-08cc3001cf20",
+        "name": "齐鲁工业大学（山东省科学院）",
+        "maxRank": 29,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 5,
-        "bronzeCount": 17
+        "bronzeCount": 23
     },
     {
-        "schoolId": "e8238168-c282-4f0b-8b57-2e2440517a14",
-        "name": "南华大学",
-        "maxRank": 44,
+        "schoolId": "7214f8b1-674a-4af2-bbd9-3b1890cfd640",
+        "name": "江南大学",
+        "maxRank": 25,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 5,
-        "bronzeCount": 9
+        "bronzeCount": 22
+    },
+    {
+        "schoolId": "6edf2f70-01b7-4adf-854f-45663a8ea600",
+        "name": "北京工业大学",
+        "maxRank": 34,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 5,
+        "bronzeCount": 15
     },
     {
         "schoolId": "14ff1747-eefe-490c-b504-d6a189e80cd0",
         "name": "大连海事大学",
         "maxRank": 47,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 5,
+        "bronzeCount": 11
+    },
+    {
+        "schoolId": "5435ffb7-5379-4383-b51f-d6bdb83c3133",
+        "name": "北方工业大学",
+        "maxRank": 42,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 5,
+        "bronzeCount": 10
+    },
+    {
+        "schoolId": "e8238168-c282-4f0b-8b57-2e2440517a14",
+        "name": "南华大学",
+        "maxRank": 44,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -1661,15 +1760,15 @@
         "bronzeCount": 7
     },
     {
-        "schoolId": "e8c60b52-1b58-41bc-8cbd-bd71ceacb492",
-        "name": "中国矿业大学（北京）",
-        "maxRank": 31,
+        "schoolId": "708fe9f0-183f-49cd-821c-579acdae9018",
+        "name": "广西大学",
+        "maxRank": 51,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
-        "silverCount": 5,
-        "bronzeCount": 6
+        "silverCount": 4,
+        "bronzeCount": 26
     },
     {
         "schoolId": "841d69ab-b931-4f5f-8b35-c28a94f72704",
@@ -1680,7 +1779,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 4,
-        "bronzeCount": 16
+        "bronzeCount": 17
     },
     {
         "schoolId": "6d3ec272-0336-4ee6-9ec2-430e83e4a75b",
@@ -1691,7 +1790,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 4,
-        "bronzeCount": 15
+        "bronzeCount": 17
     },
     {
         "schoolId": "99766dcb-000a-4ac7-898e-4eef1e855acd",
@@ -1702,18 +1801,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 4,
-        "bronzeCount": 12
-    },
-    {
-        "schoolId": "5435ffb7-5379-4383-b51f-d6bdb83c3133",
-        "name": "北方工业大学",
-        "maxRank": 42,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 4,
-        "bronzeCount": 9
+        "bronzeCount": 13
     },
     {
         "schoolId": "c0d1c79a-d572-4731-935c-21594a563a24",
@@ -1724,18 +1812,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 4,
-        "bronzeCount": 9
-    },
-    {
-        "schoolId": "2f2d72bf-0e16-4148-b9eb-5c1bee327eae",
-        "name": "北京科技大学",
-        "maxRank": 24,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 4,
-        "bronzeCount": 8
+        "bronzeCount": 10
     },
     {
         "schoolId": "59530863-1036-47c7-afb4-933ce7eff072",
@@ -1746,7 +1823,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 4,
-        "bronzeCount": 8
+        "bronzeCount": 9
     },
     {
         "schoolId": "c0353f86-e8ef-4634-9685-2d50c1f3f059",
@@ -1760,6 +1837,17 @@
         "bronzeCount": 8
     },
     {
+        "schoolId": "b7fa583e-700d-4d87-9113-06b67a0728d0",
+        "name": "北京信息科技大学",
+        "maxRank": 36,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 4,
+        "bronzeCount": 7
+    },
+    {
         "schoolId": "18408321-8f71-4beb-8e98-8c4185eb4bb2",
         "name": "湖南科技大学",
         "maxRank": 37,
@@ -1768,18 +1856,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 27
-    },
-    {
-        "schoolId": "708fe9f0-183f-49cd-821c-579acdae9018",
-        "name": "广西大学",
-        "maxRank": 51,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 3,
-        "bronzeCount": 23
+        "bronzeCount": 32
     },
     {
         "schoolId": "1e2c6454-f42c-4737-847a-8233f06ca05e",
@@ -1791,28 +1868,6 @@
         "goldCount": 0,
         "silverCount": 3,
         "bronzeCount": 20
-    },
-    {
-        "schoolId": "7214f8b1-674a-4af2-bbd9-3b1890cfd640",
-        "name": "江南大学",
-        "maxRank": 25,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 3,
-        "bronzeCount": 20
-    },
-    {
-        "schoolId": "caa4260c-1498-4f76-9758-46e36b0372dc",
-        "name": "河南大学",
-        "maxRank": 46,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 3,
-        "bronzeCount": 19
     },
     {
         "schoolId": "7e071e1b-4b09-4d13-9ff2-f0dc221ce78c",
@@ -1834,7 +1889,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 13
+        "bronzeCount": 15
     },
     {
         "schoolId": "df4c6eb9-a0b4-4ad0-b0bb-186b8e83f88a",
@@ -1848,28 +1903,6 @@
         "bronzeCount": 13
     },
     {
-        "schoolId": "5ee46948-5e07-40f5-9fae-77c442c498db",
-        "name": "中国传媒大学",
-        "maxRank": 23,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 3,
-        "bronzeCount": 11
-    },
-    {
-        "schoolId": "6edf2f70-01b7-4adf-854f-45663a8ea600",
-        "name": "北京工业大学",
-        "maxRank": 34,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 3,
-        "bronzeCount": 10
-    },
-    {
         "schoolId": "b8d83d8b-0ef6-411c-95b8-67faf0086427",
         "name": "河南理工大学",
         "maxRank": 46,
@@ -1878,7 +1911,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 9
+        "bronzeCount": 11
     },
     {
         "schoolId": "b3fea713-7405-4529-a09e-f0e83c0c56f3",
@@ -1889,7 +1922,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 8
+        "bronzeCount": 10
     },
     {
         "schoolId": "c8b4c53c-b51a-4748-903e-b9c1035e43f6",
@@ -1900,7 +1933,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 6
+        "bronzeCount": 9
     },
     {
         "schoolId": "9191e3d6-6cbe-4886-97be-fc51c07c630e",
@@ -1911,18 +1944,29 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 6
+        "bronzeCount": 8
     },
     {
-        "schoolId": "b7fa583e-700d-4d87-9113-06b67a0728d0",
-        "name": "北京信息科技大学",
-        "maxRank": 36,
+        "schoolId": "3a2d203a-36fe-4c00-9fe4-2281c6de2c4c",
+        "name": "厦门理工学院",
+        "maxRank": 33,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 5
+        "bronzeCount": 7
+    },
+    {
+        "schoolId": "9354161d-3bd7-4c5e-8735-3b8c295ecef8",
+        "name": "深圳技术大学",
+        "maxRank": 56,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 3,
+        "bronzeCount": 7
     },
     {
         "schoolId": "8fca4b86-5510-4295-a6e5-0134ca7e9c8c",
@@ -1933,12 +1977,12 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 3,
-        "bronzeCount": 5
+        "bronzeCount": 6
     },
     {
-        "schoolId": "9354161d-3bd7-4c5e-8735-3b8c295ecef8",
-        "name": "深圳技术大学",
-        "maxRank": 56,
+        "schoolId": "fc066e89-de05-4cfc-b4b4-10d226d04a89",
+        "name": "河北师范大学",
+        "maxRank": 35,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -1988,6 +2032,28 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
+        "bronzeCount": 20
+    },
+    {
+        "schoolId": "84e3d15f-74c5-4595-a9c9-cc35479078ab",
+        "name": "南昌航空大学",
+        "maxRank": 57,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 2,
+        "bronzeCount": 17
+    },
+    {
+        "schoolId": "6972a788-7b5b-4661-852c-41b3cbd07c91",
+        "name": "新疆大学",
+        "maxRank": 41,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 2,
         "bronzeCount": 16
     },
     {
@@ -1999,7 +2065,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
-        "bronzeCount": 12
+        "bronzeCount": 14
     },
     {
         "schoolId": "0c9d15fa-79b7-4a0f-bd53-41dc93153f05",
@@ -2010,18 +2076,29 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
-        "bronzeCount": 11
+        "bronzeCount": 13
     },
     {
-        "schoolId": "6972a788-7b5b-4661-852c-41b3cbd07c91",
-        "name": "新疆大学",
-        "maxRank": 41,
+        "schoolId": "98ca5aa9-514e-48d5-9485-13c622ae3f71",
+        "name": "武汉纺织大学",
+        "maxRank": 45,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
-        "bronzeCount": 11
+        "bronzeCount": 13
+    },
+    {
+        "schoolId": "09137009-1ee5-4197-90ea-183a2a8e84b9",
+        "name": "天津工业大学",
+        "maxRank": 40,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 2,
+        "bronzeCount": 12
     },
     {
         "schoolId": "b76c457c-6e87-4b8e-9ee5-e5cb4d3e36bd",
@@ -2035,17 +2112,6 @@
         "bronzeCount": 11
     },
     {
-        "schoolId": "0881384c-9d1c-4101-bab7-c7f935c129a0",
-        "name": "温州大学",
-        "maxRank": 37,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 2,
-        "bronzeCount": 10
-    },
-    {
         "schoolId": "c662bcc8-f4ab-4f2c-b096-9116779ea104",
         "name": "合肥学院",
         "maxRank": 42,
@@ -2055,28 +2121,6 @@
         "goldCount": 0,
         "silverCount": 2,
         "bronzeCount": 9
-    },
-    {
-        "schoolId": "98ca5aa9-514e-48d5-9485-13c622ae3f71",
-        "name": "武汉纺织大学",
-        "maxRank": 45,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 2,
-        "bronzeCount": 9
-    },
-    {
-        "schoolId": "09137009-1ee5-4197-90ea-183a2a8e84b9",
-        "name": "天津工业大学",
-        "maxRank": 40,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 2,
-        "bronzeCount": 8
     },
     {
         "schoolId": "b394b2a2-37d6-4568-a1eb-189afc9d590a",
@@ -2090,26 +2134,15 @@
         "bronzeCount": 6
     },
     {
-        "schoolId": "3a2d203a-36fe-4c00-9fe4-2281c6de2c4c",
-        "name": "厦门理工学院",
-        "maxRank": 33,
+        "schoolId": "0cce3a8b-c822-462a-87ef-beda540de4d4",
+        "name": "衡阳师范学院",
+        "maxRank": 45,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
         "bronzeCount": 6
-    },
-    {
-        "schoolId": "79bd1b32-f7ca-406d-af2d-d38d4e61a45e",
-        "name": "东莞理工学院",
-        "maxRank": 37,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 2,
-        "bronzeCount": 5
     },
     {
         "schoolId": "40b36f70-2732-4739-8611-d962ec48289c",
@@ -2123,15 +2156,26 @@
         "bronzeCount": 5
     },
     {
-        "schoolId": "0cce3a8b-c822-462a-87ef-beda540de4d4",
-        "name": "衡阳师范学院",
-        "maxRank": 45,
+        "schoolId": "bf150b82-c531-4625-9ab7-42350162011c",
+        "name": "湖南城市学院",
+        "maxRank": 46,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
         "bronzeCount": 5
+    },
+    {
+        "schoolId": "e7cd42aa-8c3f-4608-9b5c-5c03524ff379",
+        "name": "上海电力大学",
+        "maxRank": 48,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 2,
+        "bronzeCount": 3
     },
     {
         "schoolId": "36a71f03-3d8f-409a-97e2-a55436f31f06",
@@ -2156,17 +2200,6 @@
         "bronzeCount": 3
     },
     {
-        "schoolId": "fc066e89-de05-4cfc-b4b4-10d226d04a89",
-        "name": "河北师范大学",
-        "maxRank": 52,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 2,
-        "bronzeCount": 3
-    },
-    {
         "schoolId": "f2b9f226-0d49-4c5b-8b56-2703893a1184",
         "name": "华北水利水电大学",
         "maxRank": 50,
@@ -2178,15 +2211,15 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "e7cd42aa-8c3f-4608-9b5c-5c03524ff379",
-        "name": "上海电力大学",
-        "maxRank": 48,
+        "schoolId": "850e8e52-27e8-47a3-a75b-f52185057d0d",
+        "name": "浙江机电职业技术大学",
+        "maxRank": 37,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
-        "bronzeCount": 1
+        "bronzeCount": 2
     },
     {
         "schoolId": "23bf73d4-4bac-404a-b98d-b851317fcef2",
@@ -2222,26 +2255,15 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "850e8e52-27e8-47a3-a75b-f52185057d0d",
-        "name": "浙江机电职业技术大学",
-        "maxRank": 37,
+        "schoolId": "32ea8c65-3eb7-4449-addb-38414bc21aba",
+        "name": "南京大学苏州校区",
+        "maxRank": 39,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 2,
-        "bronzeCount": 1
-    },
-    {
-        "schoolId": "84e3d15f-74c5-4595-a9c9-cc35479078ab",
-        "name": "南昌航空大学",
-        "maxRank": 57,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 1,
-        "bronzeCount": 15
+        "bronzeCount": 0
     },
     {
         "schoolId": "c82ede4b-3358-4c80-9d21-4b5b0d549e48",
@@ -2252,12 +2274,23 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 1,
-        "bronzeCount": 13
+        "bronzeCount": 14
     },
     {
         "schoolId": "5efa410a-e293-4e00-8066-e6c4e13261eb",
         "name": "西安理工大学",
         "maxRank": 63,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 13
+    },
+    {
+        "schoolId": "4f819b94-9b5e-4fc9-80f8-af43d80976d5",
+        "name": "湖南工业大学",
+        "maxRank": 60,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2299,17 +2332,6 @@
         "bronzeCount": 10
     },
     {
-        "schoolId": "4f819b94-9b5e-4fc9-80f8-af43d80976d5",
-        "name": "湖南工业大学",
-        "maxRank": 60,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 1,
-        "bronzeCount": 10
-    },
-    {
         "schoolId": "0334ad1d-c63b-4517-a4af-2144396c4afb",
         "name": "浙江中医药大学",
         "maxRank": 42,
@@ -2321,9 +2343,42 @@
         "bronzeCount": 9
     },
     {
+        "schoolId": "3ed0b4cc-3d8e-4a1b-871f-87dc0562ab01",
+        "name": "东北林业大学",
+        "maxRank": 56,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 8
+    },
+    {
         "schoolId": "35261425-76d1-400d-8efc-1cccfa50316d",
         "name": "南京师范大学",
         "maxRank": 41,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 8
+    },
+    {
+        "schoolId": "bdaea62a-d519-4175-b5cd-dda8c7906e70",
+        "name": "浙江科技大学",
+        "maxRank": 61,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 8
+    },
+    {
+        "schoolId": "fb55066d-c53a-4ff6-8f2b-a1f4e022da3e",
+        "name": "华北电力大学（保定）",
+        "maxRank": 49,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2365,6 +2420,28 @@
         "bronzeCount": 6
     },
     {
+        "schoolId": "b07976d1-5bd5-4fcf-8eac-4b5211e89b4a",
+        "name": "福建农林大学",
+        "maxRank": 38,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 6
+    },
+    {
+        "schoolId": "cbc71d5e-3e48-4f21-99ad-a3bcf9160fe7",
+        "name": "上海师范大学",
+        "maxRank": 39,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 5
+    },
+    {
         "schoolId": "97afaa5c-49d1-41b3-ab99-0e21e5259267",
         "name": "乐山师范学院",
         "maxRank": 54,
@@ -2376,9 +2453,20 @@
         "bronzeCount": 5
     },
     {
-        "schoolId": "b07976d1-5bd5-4fcf-8eac-4b5211e89b4a",
-        "name": "福建农林大学",
-        "maxRank": 38,
+        "schoolId": "ce769435-f59a-4005-bb20-2c87e4840f5c",
+        "name": "南京农业大学",
+        "maxRank": 70,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 5
+    },
+    {
+        "schoolId": "aa4ddcca-0d8c-47fb-b68f-1da38a936c96",
+        "name": "西华大学",
+        "maxRank": 44,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2398,9 +2486,9 @@
         "bronzeCount": 5
     },
     {
-        "schoolId": "cbc71d5e-3e48-4f21-99ad-a3bcf9160fe7",
-        "name": "上海师范大学",
-        "maxRank": 39,
+        "schoolId": "a6097466-574e-4c61-ba44-90feb4d995d2",
+        "name": "National University of Mongolia",
+        "maxRank": 34,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2412,6 +2500,17 @@
         "schoolId": "7e991eb2-e1bc-43e6-a442-a579fef2ea36",
         "name": "周口师范学院",
         "maxRank": 40,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 4
+    },
+    {
+        "schoolId": "7d5aacda-4587-4dcc-82e9-70d73e3fa2fa",
+        "name": "武汉商学院",
+        "maxRank": 56,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2464,9 +2563,9 @@
         "bronzeCount": 4
     },
     {
-        "schoolId": "fb55066d-c53a-4ff6-8f2b-a1f4e022da3e",
-        "name": "华北电力大学（保定）",
-        "maxRank": 49,
+        "schoolId": "68ee8fb2-05c7-4479-9a1c-5d84a7fbd5ea",
+        "name": "宁波职业技术学院",
+        "maxRank": 61,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2475,9 +2574,9 @@
         "bronzeCount": 3
     },
     {
-        "schoolId": "68ee8fb2-05c7-4479-9a1c-5d84a7fbd5ea",
-        "name": "宁波职业技术学院",
-        "maxRank": 61,
+        "schoolId": "0a3f4882-2791-49f9-b539-4a1da51dcb66",
+        "name": "宁波财经学院",
+        "maxRank": 42,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2497,31 +2596,9 @@
         "bronzeCount": 3
     },
     {
-        "schoolId": "7d5aacda-4587-4dcc-82e9-70d73e3fa2fa",
-        "name": "武汉商学院",
-        "maxRank": 56,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 1,
-        "bronzeCount": 3
-    },
-    {
         "schoolId": "6bb56d08-b60c-475a-b360-4a74cf55208f",
         "name": "沈阳理工大学",
         "maxRank": 50,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 1,
-        "bronzeCount": 3
-    },
-    {
-        "schoolId": "bf150b82-c531-4625-9ab7-42350162011c",
-        "name": "湖南城市学院",
-        "maxRank": 71,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2541,9 +2618,9 @@
         "bronzeCount": 3
     },
     {
-        "schoolId": "a6097466-574e-4c61-ba44-90feb4d995d2",
-        "name": "National University of Mongolia",
-        "maxRank": 34,
+        "schoolId": "7ac6d856-b1dd-4764-b0a2-ee512289e3a4",
+        "name": "三峡大学",
+        "maxRank": 65,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2585,9 +2662,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "aa4ddcca-0d8c-47fb-b68f-1da38a936c96",
-        "name": "西华大学",
-        "maxRank": 44,
+        "schoolId": "734b2fee-aa3b-4f76-9e56-d541af01fae4",
+        "name": "河北工程大学",
+        "maxRank": 47,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2596,9 +2673,31 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "7ac6d856-b1dd-4764-b0a2-ee512289e3a4",
-        "name": "三峡大学",
-        "maxRank": 65,
+        "schoolId": "346fda3e-f174-4c27-9902-d730942bf127",
+        "name": "绍兴理工学院",
+        "maxRank": 43,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 2
+    },
+    {
+        "schoolId": "f473f3cf-d3df-4654-aef1-47b888ddb255",
+        "name": "重庆工程学院",
+        "maxRank": 37,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 2
+    },
+    {
+        "schoolId": "b70a4683-713c-4e43-a77c-2ea5d3522f6e",
+        "name": "佛山科学技术学院",
+        "maxRank": 50,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2607,9 +2706,20 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "b70a4683-713c-4e43-a77c-2ea5d3522f6e",
-        "name": "佛山科学技术学院",
-        "maxRank": 50,
+        "schoolId": "078c67ee-7568-4cf4-9718-140145353dfd",
+        "name": "南京工程学院",
+        "maxRank": 63,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 1,
+        "bronzeCount": 1
+    },
+    {
+        "schoolId": "55cac598-0cc1-498c-8fc7-34d45889f600",
+        "name": "安徽师范大学",
+        "maxRank": 42,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2758,6 +2868,17 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 0,
+        "bronzeCount": 14
+    },
+    {
+        "schoolId": "ba4353b7-09fb-4ff3-bfc2-d28933887f83",
+        "name": "中南民族大学",
+        "maxRank": 77,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
         "bronzeCount": 12
     },
     {
@@ -2772,15 +2893,15 @@
         "bronzeCount": 12
     },
     {
-        "schoolId": "ba4353b7-09fb-4ff3-bfc2-d28933887f83",
-        "name": "中南民族大学",
-        "maxRank": 77,
+        "schoolId": "9805ab80-1143-4fbd-b651-cc66a96427d7",
+        "name": "黑龙江大学",
+        "maxRank": 49,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 0,
-        "bronzeCount": 11
+        "bronzeCount": 12
     },
     {
         "schoolId": "e6679713-ef18-422a-be6a-e3d65dadc378",
@@ -2802,18 +2923,7 @@
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 0,
-        "bronzeCount": 9
-    },
-    {
-        "schoolId": "9805ab80-1143-4fbd-b651-cc66a96427d7",
-        "name": "黑龙江大学",
-        "maxRank": 49,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 9
+        "bronzeCount": 10
     },
     {
         "schoolId": "7fdafee0-e7e1-4f9c-8f8c-077cf5c37c8c",
@@ -2849,9 +2959,9 @@
         "bronzeCount": 8
     },
     {
-        "schoolId": "3ed0b4cc-3d8e-4a1b-871f-87dc0562ab01",
-        "name": "东北林业大学",
-        "maxRank": 66,
+        "schoolId": "b396ec43-37ae-495c-bf00-c5309f4580da",
+        "name": "华东交通大学",
+        "maxRank": 69,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2860,9 +2970,9 @@
         "bronzeCount": 7
     },
     {
-        "schoolId": "b396ec43-37ae-495c-bf00-c5309f4580da",
-        "name": "华东交通大学",
-        "maxRank": 69,
+        "schoolId": "2d18e8a2-9e7b-4714-9f85-7992d7db60f3",
+        "name": "南京工业大学",
+        "maxRank": 82,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2882,9 +2992,9 @@
         "bronzeCount": 7
     },
     {
-        "schoolId": "bdaea62a-d519-4175-b5cd-dda8c7906e70",
-        "name": "浙江科技大学",
-        "maxRank": 61,
+        "schoolId": "39842d95-1f4b-4cab-99d5-0ed680b233e7",
+        "name": "河南师范大学",
+        "maxRank": 63,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2893,9 +3003,53 @@
         "bronzeCount": 7
     },
     {
+        "schoolId": "9ab407f0-4b7d-4f65-9350-293618370fd3",
+        "name": "湖南农业大学",
+        "maxRank": 81,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 7
+    },
+    {
+        "schoolId": "f254d9d1-f24c-4323-972f-5302e1555973",
+        "name": "西安邮电大学",
+        "maxRank": 89,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 7
+    },
+    {
+        "schoolId": "5cd1ffe6-e5ed-468e-b7a3-a0ed9ded9a33",
+        "name": "四川师范大学",
+        "maxRank": 58,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 6
+    },
+    {
         "schoolId": "d65339d6-91b4-4d5c-b3f5-364e366e10b1",
         "name": "天津仁爱学院",
         "maxRank": 55,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 6
+    },
+    {
+        "schoolId": "242dc5b0-8769-4b4a-a358-d8fbfee5d752",
+        "name": "安徽农业大学",
+        "maxRank": 77,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2926,20 +3080,9 @@
         "bronzeCount": 6
     },
     {
-        "schoolId": "9ab407f0-4b7d-4f65-9350-293618370fd3",
-        "name": "湖南农业大学",
-        "maxRank": 81,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 6
-    },
-    {
-        "schoolId": "5cd1ffe6-e5ed-468e-b7a3-a0ed9ded9a33",
-        "name": "四川师范大学",
-        "maxRank": 58,
+        "schoolId": "d9f75e23-465c-4595-9947-2b06c483b248",
+        "name": "大连理工大学盘锦校区",
+        "maxRank": 90,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2948,9 +3091,20 @@
         "bronzeCount": 5
     },
     {
-        "schoolId": "39842d95-1f4b-4cab-99d5-0ed680b233e7",
-        "name": "河南师范大学",
-        "maxRank": 63,
+        "schoolId": "36804361-f1a3-47ef-bd3d-8f7bd9a12c63",
+        "name": "广西师范大学",
+        "maxRank": 83,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 5
+    },
+    {
+        "schoolId": "a60aeb66-ceef-4a9b-9443-5708e09742ef",
+        "name": "昆明理工大学",
+        "maxRank": 65,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2981,9 +3135,9 @@
         "bronzeCount": 5
     },
     {
-        "schoolId": "f254d9d1-f24c-4323-972f-5302e1555973",
-        "name": "西安邮电大学",
-        "maxRank": 89,
+        "schoolId": "dae5b2ff-88aa-4363-9cbb-a70e7567785a",
+        "name": "闽南师范大学",
+        "maxRank": 61,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -2992,9 +3146,9 @@
         "bronzeCount": 5
     },
     {
-        "schoolId": "dae5b2ff-88aa-4363-9cbb-a70e7567785a",
-        "name": "闽南师范大学",
-        "maxRank": 61,
+        "schoolId": "c7edf0c2-3e4a-42f3-8d46-9740b908f9d9",
+        "name": "阜阳师范大学",
+        "maxRank": 62,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3014,9 +3168,9 @@
         "bronzeCount": 4
     },
     {
-        "schoolId": "2d18e8a2-9e7b-4714-9f85-7992d7db60f3",
-        "name": "南京工业大学",
-        "maxRank": 98,
+        "schoolId": "c51a30ab-ae05-4448-85dd-0c01aa46f252",
+        "name": "中国农业大学",
+        "maxRank": 60,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3058,17 +3212,6 @@
         "bronzeCount": 4
     },
     {
-        "schoolId": "242dc5b0-8769-4b4a-a358-d8fbfee5d752",
-        "name": "安徽农业大学",
-        "maxRank": 77,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 4
-    },
-    {
         "schoolId": "63480e19-a4de-4c59-a88f-f2a5b4061e59",
         "name": "山东农业大学",
         "maxRank": 68,
@@ -3102,9 +3245,9 @@
         "bronzeCount": 4
     },
     {
-        "schoolId": "36804361-f1a3-47ef-bd3d-8f7bd9a12c63",
-        "name": "广西师范大学",
-        "maxRank": 83,
+        "schoolId": "784376d0-d916-454f-a7c6-11bae0db6587",
+        "name": "广东技术师范大学",
+        "maxRank": 69,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3113,9 +3256,9 @@
         "bronzeCount": 4
     },
     {
-        "schoolId": "a60aeb66-ceef-4a9b-9443-5708e09742ef",
-        "name": "昆明理工大学",
-        "maxRank": 65,
+        "schoolId": "0af5c751-964b-41e3-8bd5-08e9c405627b",
+        "name": "成都大学",
+        "maxRank": 68,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3168,20 +3311,53 @@
         "bronzeCount": 4
     },
     {
-        "schoolId": "c7edf0c2-3e4a-42f3-8d46-9740b908f9d9",
-        "name": "阜阳师范大学",
-        "maxRank": 67,
+        "schoolId": "f0a25771-fdf3-46bf-a8ba-2ebca132c6be",
+        "name": "上海第二工业大学",
+        "maxRank": 96,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
         "goldCount": 0,
         "silverCount": 0,
-        "bronzeCount": 4
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "792079db-b8cd-4309-a24b-c906ebae6adf",
+        "name": "中南林业科技大学",
+        "maxRank": 103,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
     },
     {
         "schoolId": "77fe63fd-4b82-45f0-be2c-3db09e934075",
         "name": "中国人民解放军战略支援部队信息工程大学",
         "maxRank": 53,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "86dcb715-038f-466c-b21d-c88754dfe4ba",
+        "name": "中国石油大学（北京）克拉玛依校区",
+        "maxRank": 79,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "9e9683ba-b404-46b8-b1df-de7399d50499",
+        "name": "内蒙古大学",
+        "maxRank": 98,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3201,17 +3377,6 @@
         "bronzeCount": 3
     },
     {
-        "schoolId": "ce769435-f59a-4005-bb20-2c87e4840f5c",
-        "name": "南京农业大学",
-        "maxRank": 87,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 3
-    },
-    {
         "schoolId": "2f01d39d-e788-4b5a-891e-2a62ca1b822e",
         "name": "南昌理工学院",
         "maxRank": 91,
@@ -3223,9 +3388,31 @@
         "bronzeCount": 3
     },
     {
-        "schoolId": "d9f75e23-465c-4595-9947-2b06c483b248",
-        "name": "大连理工大学盘锦校区",
-        "maxRank": 101,
+        "schoolId": "5a4937ea-2483-4d8f-b8ff-7a6169148b1c",
+        "name": "安徽理工大学",
+        "maxRank": 84,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "7511b0ca-8084-41bc-9324-8b6188d68a8a",
+        "name": "安阳工学院",
+        "maxRank": 69,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "1317c9df-9f77-44a8-86fb-c0a2b9633f7c",
+        "name": "山东建筑大学",
+        "maxRank": 98,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3245,9 +3432,20 @@
         "bronzeCount": 3
     },
     {
-        "schoolId": "784376d0-d916-454f-a7c6-11bae0db6587",
-        "name": "广东技术师范大学",
-        "maxRank": 86,
+        "schoolId": "3ff5ba5a-bad5-4f0d-ba6c-328d90df5a1f",
+        "name": "沈阳师范大学",
+        "maxRank": 56,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "8038e021-8265-43fe-827c-6f7783a0e3ec",
+        "name": "泉州师范学院",
+        "maxRank": 92,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3322,6 +3520,39 @@
         "bronzeCount": 3
     },
     {
+        "schoolId": "ddf3401b-fff1-4aa5-88b9-90d5130dcb6d",
+        "name": "西安工业大学",
+        "maxRank": 93,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "c2e78329-ec57-4329-9ca0-32c26488cb42",
+        "name": "西安欧亚学院",
+        "maxRank": 83,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
+        "schoolId": "c6c95a4e-ca3b-4e09-bec2-6f80a566b993",
+        "name": "重庆移通学院",
+        "maxRank": 69,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 3
+    },
+    {
         "schoolId": "f0384348-4bff-4520-bdec-8ecb1fb81564",
         "name": "陕西科技大学",
         "maxRank": 107,
@@ -3344,42 +3575,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "f0a25771-fdf3-46bf-a8ba-2ebca132c6be",
-        "name": "上海第二工业大学",
-        "maxRank": 96,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "792079db-b8cd-4309-a24b-c906ebae6adf",
-        "name": "中南林业科技大学",
-        "maxRank": 103,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
         "schoolId": "1c26ba1d-c78f-4dd2-8c38-808cf7f3bf87",
         "name": "中原工学院",
         "maxRank": 71,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "c51a30ab-ae05-4448-85dd-0c01aa46f252",
-        "name": "中国农业大学",
-        "maxRank": 60,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3399,6 +3597,28 @@
         "bronzeCount": 2
     },
     {
+        "schoolId": "275ed33b-8bec-4b1f-b1f2-e38749465fab",
+        "name": "中央财经大学",
+        "maxRank": 84,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 2
+    },
+    {
+        "schoolId": "7dafbf09-c96d-4685-b6f9-1cde8a090c10",
+        "name": "丽水学院",
+        "maxRank": 98,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 2
+    },
+    {
         "schoolId": "d8386ee5-e6fa-488e-beda-d6661ca5d23b",
         "name": "信息工程大学",
         "maxRank": 109,
@@ -3410,20 +3630,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "9e9683ba-b404-46b8-b1df-de7399d50499",
-        "name": "内蒙古大学",
-        "maxRank": 98,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "0a3f4882-2791-49f9-b539-4a1da51dcb66",
-        "name": "宁波财经学院",
-        "maxRank": 111,
+        "schoolId": "915c1a07-9d67-4c0d-88a3-4a52fadc92ab",
+        "name": "合肥大学",
+        "maxRank": 113,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3443,42 +3652,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "5a4937ea-2483-4d8f-b8ff-7a6169148b1c",
-        "name": "安徽理工大学",
-        "maxRank": 84,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "7511b0ca-8084-41bc-9324-8b6188d68a8a",
-        "name": "安阳工学院",
-        "maxRank": 69,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
         "schoolId": "ef296117-e0af-478c-b622-cb14bc6d2efa",
         "name": "山东大学（威海)",
         "maxRank": 79,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "1317c9df-9f77-44a8-86fb-c0a2b9633f7c",
-        "name": "山东建筑大学",
-        "maxRank": 108,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3531,9 +3707,20 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "0af5c751-964b-41e3-8bd5-08e9c405627b",
-        "name": "成都大学",
-        "maxRank": 79,
+        "schoolId": "6393d8fe-095b-48e0-8d4e-a22b41afcf55",
+        "name": "成都锦城学院",
+        "maxRank": 90,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 2
+    },
+    {
+        "schoolId": "25edcbb7-582c-4f25-9e1e-0798a3c15402",
+        "name": "武汉轻工大学",
+        "maxRank": 113,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3564,31 +3751,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "3ff5ba5a-bad5-4f0d-ba6c-328d90df5a1f",
-        "name": "沈阳师范大学",
-        "maxRank": 56,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "734b2fee-aa3b-4f76-9e56-d541af01fae4",
-        "name": "河北工程大学",
-        "maxRank": 84,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "8038e021-8265-43fe-827c-6f7783a0e3ec",
-        "name": "泉州师范学院",
-        "maxRank": 95,
+        "schoolId": "e84dad0a-5ac6-46dc-90d3-16acf9ff7ade",
+        "name": "深圳职业技术大学",
+        "maxRank": 71,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3630,9 +3795,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "6823b2ad-c230-4cd5-b04d-b0dc021e4ba2",
-        "name": "石家庄铁道大学",
-        "maxRank": 82,
+        "schoolId": "bc65dc9a-757d-4e13-8923-6869ee6869dc",
+        "name": "澳门大学",
+        "maxRank": 63,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3641,9 +3806,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "ddf3401b-fff1-4aa5-88b9-90d5130dcb6d",
-        "name": "西安工业大学",
-        "maxRank": 93,
+        "schoolId": "6823b2ad-c230-4cd5-b04d-b0dc021e4ba2",
+        "name": "石家庄铁道大学",
+        "maxRank": 82,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3663,20 +3828,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "c2e78329-ec57-4329-9ca0-32c26488cb42",
-        "name": "西安欧亚学院",
-        "maxRank": 95,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 2
-    },
-    {
-        "schoolId": "f473f3cf-d3df-4654-aef1-47b888ddb255",
-        "name": "重庆工程学院",
-        "maxRank": 81,
+        "schoolId": "b4d5f649-9041-47dd-889f-e8d1255761ad",
+        "name": "西安科技大学",
+        "maxRank": 76,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3696,9 +3850,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "c6c95a4e-ca3b-4e09-bec2-6f80a566b993",
-        "name": "重庆移通学院",
-        "maxRank": 69,
+        "schoolId": "514dd84a-d26f-4294-955e-fb4d46ebd6af",
+        "name": "金陵科技学院",
+        "maxRank": 80,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3707,9 +3861,9 @@
         "bronzeCount": 2
     },
     {
-        "schoolId": "514dd84a-d26f-4294-955e-fb4d46ebd6af",
-        "name": "金陵科技学院",
-        "maxRank": 80,
+        "schoolId": "cb0e4c6c-95db-42ae-88b9-7c0bfdb79c92",
+        "name": "香港城市大学（东莞）",
+        "maxRank": 118,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3751,31 +3905,9 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "86dcb715-038f-466c-b21d-c88754dfe4ba",
-        "name": "中国石油大学（北京）克拉玛依校区",
-        "maxRank": 111,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 1
-    },
-    {
         "schoolId": "991c4494-2d8d-434b-92da-621bf5ff7171",
         "name": "中央民族大学",
         "maxRank": 113,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 1
-    },
-    {
-        "schoolId": "7dafbf09-c96d-4685-b6f9-1cde8a090c10",
-        "name": "丽水学院",
-        "maxRank": 98,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3828,6 +3960,17 @@
         "bronzeCount": 1
     },
     {
+        "schoolId": "c7c59c78-ecbf-42b7-8520-05640a30c17f",
+        "name": "北京城市学院",
+        "maxRank": 99,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
         "schoolId": "c72a749b-643c-48a8-a0fc-5ea0473f0a77",
         "name": "北京师范大学-香港浸会大学联合国际学院",
         "maxRank": 43,
@@ -3842,6 +3985,17 @@
         "schoolId": "9fde30a5-f781-42f9-9bab-8b08b344b482",
         "name": "北京师范大学珠海校区",
         "maxRank": 83,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
+        "schoolId": "611fb81c-32da-4445-970b-a12d69e47039",
+        "name": "北京电子科技学院",
+        "maxRank": 73,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3872,9 +4026,9 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "078c67ee-7568-4cf4-9718-140145353dfd",
-        "name": "南京工程学院",
-        "maxRank": 109,
+        "schoolId": "0741e026-208e-41d5-aae4-e3b2d0d64474",
+        "name": "南京晓庄学院",
+        "maxRank": 123,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3897,17 +4051,6 @@
         "schoolId": "04583448-847f-4da8-a9b8-2200bc403caf",
         "name": "南昌航空大学(软件学院)",
         "maxRank": 111,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 1
-    },
-    {
-        "schoolId": "915c1a07-9d67-4c0d-88a3-4a52fadc92ab",
-        "name": "合肥大学",
-        "maxRank": 113,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -3982,9 +4125,31 @@
         "bronzeCount": 1
     },
     {
+        "schoolId": "d0d5ca5f-a4ee-4366-831d-546fc858297d",
+        "name": "安阳师范学院",
+        "maxRank": 98,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
         "schoolId": "3c5f56e3-7cc5-44fc-a677-fb7635e4f3a9",
         "name": "山东工商学院",
         "maxRank": 110,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
+        "schoolId": "31a9afb4-3d58-41a5-9dfd-6c9132b980d6",
+        "name": "山东管理学院",
+        "maxRank": 97,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4048,17 +4213,6 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "6393d8fe-095b-48e0-8d4e-a22b41afcf55",
-        "name": "成都锦城学院",
-        "maxRank": 90,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 1
-    },
-    {
         "schoolId": "108f1e9d-8ef4-4eaa-81b2-383e65cf1b7a",
         "name": "扬州大学",
         "maxRank": 101,
@@ -4103,17 +4257,6 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "25edcbb7-582c-4f25-9e1e-0798a3c15402",
-        "name": "武汉轻工大学",
-        "maxRank": 113,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 1
-    },
-    {
         "schoolId": "f5a665d6-c59c-49b5-8309-67a320a2bec0",
         "name": "河北大学",
         "maxRank": 103,
@@ -4147,6 +4290,17 @@
         "bronzeCount": 1
     },
     {
+        "schoolId": "1725a100-f9f0-46b0-b71a-2347358bf099",
+        "name": "温州商学院",
+        "maxRank": 113,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
         "schoolId": "51ff01aa-3759-4a36-9c82-77c795499125",
         "name": "湖北中医药大学",
         "maxRank": 61,
@@ -4169,9 +4323,9 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "02e03914-656c-472a-9dab-d20fb3e33cbf",
-        "name": "潍坊学院",
-        "maxRank": 90,
+        "schoolId": "ef74deda-356c-4d71-aa5e-4625823ea063",
+        "name": "湖南人文科技学院",
+        "maxRank": 77,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4180,9 +4334,9 @@
         "bronzeCount": 1
     },
     {
-        "schoolId": "bc65dc9a-757d-4e13-8923-6869ee6869dc",
-        "name": "澳门大学",
-        "maxRank": 63,
+        "schoolId": "02e03914-656c-472a-9dab-d20fb3e33cbf",
+        "name": "潍坊学院",
+        "maxRank": 90,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4227,6 +4381,17 @@
         "schoolId": "f2341994-2745-4c2a-9473-3e5c8eb25d45",
         "name": "邵阳学院",
         "maxRank": 103,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
+        "schoolId": "f041e06f-1d10-4e6e-9d9f-6358deb0453c",
+        "name": "郑州经贸学院",
+        "maxRank": 117,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4312,6 +4477,28 @@
         "bronzeCount": 1
     },
     {
+        "schoolId": "3151351f-ca48-4e68-a7eb-972663660341",
+        "name": "黄冈师范学院",
+        "maxRank": 125,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
+        "schoolId": "07e1e9e8-64d7-4268-9da1-66b0ade5b5b0",
+        "name": "齐鲁工业大学",
+        "maxRank": 103,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 1
+    },
+    {
         "schoolId": "af123096-f655-4a39-bd11-ed778f1f311e",
         "name": "龙岩学院",
         "maxRank": 146,
@@ -4326,6 +4513,16 @@
         "schoolId": "11b28ed5-681a-4e96-a53a-3a062221b651",
         "name": "---",
         "maxRank": 196,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "c0fb863a-cd77-4c08-870f-64f8ad61031a",
+        "name": "MiniMax",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4470,6 +4667,17 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "ab5640e3-3601-4798-bb84-13d0706823bd",
+        "name": "上海工程技术大学",
+        "maxRank": 136,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "5f4c42c9-93e3-4340-971d-dcfa169960e0",
         "name": "上海市七宝中学",
         "championCount": 0,
@@ -4531,8 +4739,48 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "5c033fe8-9528-4ca2-83b5-4375e2d836e1",
+        "name": "上海星河湾双语学校",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "5dc36443-6622-4fee-a2b1-23658788c553",
+        "name": "上海杉达学院",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "9cd01384-1055-4516-a030-b387a47e59be",
         "name": "上海楷登电子科技有限公司",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "f7451153-7928-4424-86c7-c31ba3c39d72",
+        "name": "上海理エ大学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "885b3aa2-764a-4ac0-b750-279e83396f7a",
+        "name": "上海稀宇极智科技有限公司",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4635,6 +4883,17 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "7593b520-5deb-4762-af9b-f8b18ae0a2bf",
+        "name": "中国人民解放军网络空间部队信息工程大学",
+        "maxRank": 160,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "639f8fe6-c603-46dd-8b0b-bba6b5f7ded8",
         "name": "中国人民警察大学",
         "maxRank": 123,
@@ -4660,17 +4919,6 @@
         "schoolId": "73319de1-12b8-4ada-9697-001a136a35e5",
         "name": "中国矿业大学徐海学院",
         "maxRank": 124,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
-        "schoolId": "275ed33b-8bec-4b1f-b1f2-e38749465fab",
-        "name": "中央财经大学",
-        "maxRank": 283,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4733,6 +4981,16 @@
     {
         "schoolId": "fc6bc725-5d60-43d4-b6b5-35f39c315f53",
         "name": "临沂商城实验学校",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "ba5acbd0-53be-48a1-89c7-3d4c41a5ffad",
+        "name": "乌鲁木齐市第一中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4815,6 +5073,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "1468af81-5a41-4da4-b7e3-735ffb48e58f",
+        "name": "佐治亚理工学院",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "4c9edfe9-18ec-45e1-8eb4-27e08aeebb48",
         "name": "佛山大学",
         "maxRank": 251,
@@ -4839,6 +5107,16 @@
         "schoolId": "b8c0227c-866b-426c-b9e0-a55655fcf0a4",
         "name": "佳木斯大学",
         "maxRank": 264,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "8573444b-bb3d-4def-bbdf-301675eb8df5",
+        "name": "侯梦",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -4902,6 +5180,17 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "44b62fbf-4c9c-4d19-92c6-ca8ff1ce9ee2",
+        "name": "内蒙古工业大学",
+        "maxRank": 146,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "9545ef5a-c9e2-40b6-bfb1-750724e70344",
         "name": "内蒙古师范大学",
         "maxRank": 139,
@@ -4948,7 +5237,7 @@
     {
         "schoolId": "26b7ced5-c139-4455-b08c-9b0373a41047",
         "name": "内蒙古科技大学包头师范学院",
-        "maxRank": 177,
+        "maxRank": 160,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5001,9 +5290,8 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "c7c59c78-ecbf-42b7-8520-05640a30c17f",
-        "name": "北京城市学院",
-        "maxRank": 131,
+        "schoolId": "4823d10c-baba-4bb4-8260-e608af31ef1c",
+        "name": "北京大学附属中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5012,8 +5300,8 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "4823d10c-baba-4bb4-8260-e608af31ef1c",
-        "name": "北京大学附属中学",
+        "schoolId": "44f36375-f6da-4ef3-a3d3-3f4418e9b585",
+        "name": "北京大学附属幼儿园暨继续教育学院",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5085,17 +5373,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "611fb81c-32da-4445-970b-a12d69e47039",
-        "name": "北京电子科技学院",
-        "maxRank": 199,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "1b6ef9dd-dd26-4d29-8a80-bd2d1fda6e68",
         "name": "北京石油化工学院",
         "maxRank": 212,
@@ -5107,8 +5384,50 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "eac12b94-950b-461b-95b1-00efdd65aa9f",
+        "name": "北师香港浸会大学",
+        "maxRank": 213,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "85401d9d-6d81-4e62-97f4-c40bec5ab40f",
         "name": "华东师范大学第二附属中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "21c63cb0-c5c7-4b50-8add-12e52657dabe",
+        "name": "华东师范大学第二附属中学紫竹分校",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "ee0a0ed5-eac0-4519-aab8-4526065d1aab",
+        "name": "华中师范大学第一附属中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "474b17ff-a30a-4759-91be-ea9fd0cc7f0d",
+        "name": "华中科技大学文华学院",
+        "maxRank": 231,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5161,6 +5480,16 @@
         "schoolId": "b40d5cb6-d093-42fa-b7a6-ba74d7606f56",
         "name": "华北科技学院",
         "maxRank": 160,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "4cf8c612-7903-4ebb-90a4-0fb41d4b6075",
+        "name": "华南农业大学+厦门大学马来西亚分校+深圳大学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5222,17 +5551,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "0741e026-208e-41d5-aae4-e3b2d0d64474",
-        "name": "南京晓庄学院",
-        "maxRank": 126,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "3ca9569c-76cb-49d8-8856-94791589974a",
         "name": "南京理工大学泰州科技学院",
         "maxRank": 157,
@@ -5247,6 +5565,26 @@
         "schoolId": "88183238-f8df-4b21-9578-82ff29afb77a",
         "name": "南宁师范大学",
         "maxRank": 155,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "85856f24-ae50-41a4-a4b1-1588ddfb5ae8",
+        "name": "南昌五中",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "5f1cd3a6-b9c3-4655-b825-cfff7ff61ee7",
+        "name": "南昌市第二中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5299,6 +5637,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "567d960f-111d-4e27-94ec-432408ee4352",
+        "name": "卡内基梅隆大学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "b509ab30-00cc-4dba-902b-255c7f632c7e",
         "name": "原神大学",
         "championCount": 0,
@@ -5340,6 +5688,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "311ecbf8-4093-4130-8c41-e62ba4cdae72",
+        "name": "可达鸭·勰码信奥",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "d0dcbba5-382b-41aa-b531-f5723af52ff8",
         "name": "可达鸭编程",
         "championCount": 0,
@@ -5372,7 +5730,7 @@
     {
         "schoolId": "908985b8-9b56-47ab-8cff-6055d7d1dd48",
         "name": "吉利学院",
-        "maxRank": 145,
+        "maxRank": 116,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5424,8 +5782,28 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "2968c988-e393-4123-b329-5cc425e916fc",
+        "name": "呼和浩特市第二中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "fb63f755-0d74-44b0-be12-f557c2850284",
         "name": "咕果公司",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "52b54efb-ac9d-4ccb-a321-e8e86ba4ca5c",
+        "name": "哈尔滨エ业大学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5469,6 +5847,16 @@
     {
         "schoolId": "a9a673dd-ca32-4ea0-8a68-23eb453873ae",
         "name": "哈尔滨工业大学（深圳>",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "3d1c7358-9141-4fd8-81e5-bdeda6af206e",
+        "name": "哈尔滨市第三中学校",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5543,6 +5931,17 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "a6fdfead-063e-4a14-90b8-9c0239cfe37e",
+        "name": "唐山师范学院",
+        "maxRank": 168,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "8e7b039b-b292-49da-b4e2-2fc34b29d30c",
         "name": "嗨鸠科技",
         "championCount": 0,
@@ -5597,6 +5996,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "d632a414-4f9a-44d6-8a74-bbc2c8d4d464",
+        "name": "四川现代职业学院",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "1ed42e3a-6c51-486c-9457-53bc5d034f9b",
         "name": "四川省成都市树德中学",
         "championCount": 0,
@@ -5639,9 +6048,29 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "b76fecad-eaad-42fe-b11a-11e23dc5c8ef",
+        "name": "圣彼得堡第二音乐学院",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "5fcc6749-b923-48ba-9936-509e923b6ec0",
         "name": "外交学院",
         "maxRank": 142,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "56cf4847-a635-4894-8912-415adbafc4b3",
+        "name": "大庆实验中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5685,6 +6114,17 @@
     {
         "schoolId": "f638ddac-dec9-481a-9981-5ad1bd2baf50",
         "name": "大连市第二十四中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "14524062-bf7b-470d-bbbc-687d22905e92",
+        "name": "大连民族大学",
+        "maxRank": 123,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5769,6 +6209,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "248f0603-93ca-4e18-8260-bd53a8d3f1ac",
+        "name": "天津市海河中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "5b9cd2e6-f834-4ffb-af6c-4c87b656e13d",
         "name": "太原科技大学",
         "maxRank": 89,
@@ -5800,6 +6250,17 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "0a22e285-b0fe-4f4a-b454-7ebcb111651a",
+        "name": "宁德师范学院",
+        "maxRank": 147,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "e33e0c6a-51a1-4932-b013-1abefb82e771",
         "name": "宁波市效实中学",
         "championCount": 0,
@@ -5812,6 +6273,17 @@
     {
         "schoolId": "0475b86f-ada6-4b19-bc24-addb3d6b2bd6",
         "name": "宁波市镇海中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "c1a1ab2b-9508-4e0e-aa2d-6d1eb05ad375",
+        "name": "宁波职业技术大学",
+        "maxRank": 147,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5863,17 +6335,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "55cac598-0cc1-498c-8fc7-34d45889f600",
-        "name": "安徽师范大学",
-        "maxRank": 165,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "0b68a882-aeaf-46ae-a03c-2dce0dd0acca",
         "name": "安徽科技学院",
         "maxRank": 133,
@@ -5888,17 +6349,6 @@
         "schoolId": "a2b322b5-886d-4fac-a24f-5d70483e5834",
         "name": "安徽财经大学",
         "maxRank": 151,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
-        "schoolId": "d0d5ca5f-a4ee-4366-831d-546fc858297d",
-        "name": "安阳师范学院",
-        "maxRank": 143,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -5928,9 +6378,29 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "bda9feaa-0cb7-44a7-b11c-6b1ad96cd31c",
+        "name": "寿光现代中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "44c4d91a-ac56-493d-a59b-1544ab9efbb3",
         "name": "山东中医药大学",
-        "maxRank": 274,
+        "maxRank": 158,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "62adf054-454a-4ed3-968c-3ebd9467625e",
+        "name": "山东交通学院",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -6011,6 +6481,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "b8a3f1df-8d3c-4a75-9abe-62fa4b5cffc8",
+        "name": "山东省垦利第一中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "df693613-857b-4667-9456-a907e537fbdf",
         "name": "山东省实验中学",
         "championCount": 0,
@@ -6033,6 +6513,16 @@
     {
         "schoolId": "fa3f3d77-cd19-4586-8683-b334e4256574",
         "name": "山东省广饶县第一中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "84efa9f0-205d-4b26-9aef-eb9492f282a0",
+        "name": "山东省枣庄市第二中学/安徽师范大学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -6144,17 +6634,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "31a9afb4-3d58-41a5-9dfd-6c9132b980d6",
-        "name": "山东管理学院",
-        "maxRank": 168,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "4f5c839c-6424-4a62-8e03-786ea891ddbc",
         "name": "山东航空学院",
         "maxRank": 138,
@@ -6199,7 +6678,7 @@
     {
         "schoolId": "5429fd2b-bc3b-4857-9c5c-35cd22ff869f",
         "name": "广东培正学院",
-        "maxRank": 151,
+        "maxRank": 132,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -6242,7 +6721,7 @@
     {
         "schoolId": "a2abcf77-7adf-499a-a6f0-580a98e82cab",
         "name": "广州华商学院",
-        "maxRank": 214,
+        "maxRank": 145,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -6378,6 +6857,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "bd2dc203-84da-4084-849c-12d20850f730",
+        "name": "徐州中学生联队",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "5f239e66-e109-4053-9651-cce72071ef93",
         "name": "快手",
         "championCount": 0,
@@ -6440,6 +6929,17 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "7e66f142-ff4d-4b0a-ba16-55f61c73eae4",
+        "name": "成都师范学院",
+        "maxRank": 160,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "de3a88af-d944-4980-bcd4-eb8a46ca0524",
         "name": "成都树德中学",
         "championCount": 0,
@@ -6484,6 +6984,16 @@
         "schoolId": "7e5e5f0a-2634-4670-8aea-661e947bc7ce",
         "name": "战略支援信息工程大学",
         "maxRank": 263,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "2dd62d45-3e4a-411a-9ae1-f95c435de10c",
+        "name": "打星参赛",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -6580,6 +7090,16 @@
         "schoolId": "369c57db-2025-4aac-9613-0d561dbc9477",
         "name": "曲阜师范大学日照校区",
         "maxRank": 198,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "9f40fca9-f92d-4ea5-8775-803079560506",
+        "name": "来追梦信息学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -6783,9 +7303,29 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "e5c8e928-f65d-4ff5-8ec6-4d9cbbb708b1",
+        "name": "楷登电子",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "1d34dcca-fd2d-4fe1-b7db-2ec28bf55b74",
         "name": "武昌首义学院",
         "maxRank": 149,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "b965555e-03e9-4f31-8bc4-407726ba3390",
+        "name": "武汉外国语学校",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -6805,6 +7345,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "09a14908-e4c3-431c-ab86-442c662adddd",
+        "name": "武汉实验外国语学校",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "bea0dff0-1eaa-419f-a9a5-585fe193eaee",
         "name": "武汉职业技术学院",
         "maxRank": 112,
@@ -6816,9 +7366,20 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "fac81647-8eab-4056-b73e-958ca6147a44",
+        "name": "武汉软件工程职业学院",
+        "maxRank": 139,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "c0e36f02-45ad-4fad-951e-d84d02ef51ea",
         "name": "汉江师范学院",
-        "maxRank": 243,
+        "maxRank": 227,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7055,7 +7616,7 @@
     {
         "schoolId": "e41ac90e-bab3-4bc8-88b1-0d3f043babdd",
         "name": "河北经贸大学",
-        "maxRank": 148,
+        "maxRank": 134,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7066,7 +7627,7 @@
     {
         "schoolId": "d8056bcc-3b79-4f53-af8f-431457692e06",
         "name": "河南工程学院",
-        "maxRank": 154,
+        "maxRank": 141,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7077,6 +7638,26 @@
     {
         "schoolId": "71780cfd-0569-4e90-8da8-2ce141514591",
         "name": "河南师范大学附属中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "50feb9f6-8713-4388-ab13-4e7c8be337f7",
+        "name": "河南省实验中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "c67ed0fc-21fa-48c1-8e4c-98a50e397d11",
+        "name": "河南省第二实验中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7202,6 +7783,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "9e135a4e-7d42-439c-880f-52d00b2df9d3",
+        "name": "济南振声学校",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "c17028d9-b9aa-4af2-ba66-498f86271017",
         "name": "济南新航实验外国语学校",
         "championCount": 0,
@@ -7215,6 +7806,17 @@
         "schoolId": "9820cad5-f90b-4419-84eb-7f629a073569",
         "name": "浙江传媒学院",
         "maxRank": 124,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "5d69bec4-013c-425a-86e8-16cfec93f991",
+        "name": "浙江外国语学院",
+        "maxRank": 139,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7279,6 +7881,16 @@
     {
         "schoolId": "3d320921-0097-492f-ae00-2600e8d87710",
         "name": "浙江省台州中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "cc5a6213-2521-42cb-a54e-dcb72ea9d994",
+        "name": "浙江省杭州第二中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7379,6 +7991,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "b2c88002-ec17-444f-964e-4410a800abcb",
+        "name": "淄博实验中学校友联合",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "b7245fcb-7705-4799-8396-4ae2474a12d9",
         "name": "淄博第四中学",
         "championCount": 0,
@@ -7460,27 +8082,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "e84dad0a-5ac6-46dc-90d3-16acf9ff7ade",
-        "name": "深圳职业技术大学",
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
-        "schoolId": "1725a100-f9f0-46b0-b71a-2347358bf099",
-        "name": "温州商学院",
-        "maxRank": 164,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "e72421b9-6f86-47b3-9131-ed79cf782043",
         "name": "温州大学瓯江学院",
         "maxRank": 160,
@@ -7504,7 +8105,7 @@
     {
         "schoolId": "50d2eb53-07e5-48d6-8dd0-34906e255058",
         "name": "湖北大学",
-        "maxRank": 215,
+        "maxRank": 178,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7524,9 +8125,31 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "bdfe1295-e8cb-4613-b16a-09505f7a3caf",
+        "name": "湖北师范大学",
+        "maxRank": 165,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "1bd80093-7294-434d-89a7-7a876df24275",
         "name": "湖北文理学院",
         "maxRank": 216,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "26498be5-f6c5-4414-9348-b54186613d8f",
+        "name": "湖北汽车工业学院",
+        "maxRank": 164,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7568,17 +8191,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "ef74deda-356c-4d71-aa5e-4625823ea063",
-        "name": "湖南人文科技学院",
-        "maxRank": 77,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "200d69f7-efdb-4aa9-b061-a417488dbdf6",
         "name": "湖南农业大学东方科技学院",
         "maxRank": 235,
@@ -7603,7 +8215,7 @@
     {
         "schoolId": "6ebdd364-2125-48a4-a0ee-9b519819c060",
         "name": "湖南涉外经济学院",
-        "maxRank": 136,
+        "maxRank": 121,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7711,6 +8323,27 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "b06f1645-68e2-4afe-a09f-899ea499f255",
+        "name": "焦作市第一中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "cbd712ed-b959-43f9-822b-6bee6ae5c1d6",
+        "name": "燕京理工学院",
+        "maxRank": 162,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "9effad9a-469e-49d3-9ef2-695a4ab60060",
         "name": "牛客竞赛",
         "championCount": 0,
@@ -7766,6 +8399,17 @@
         "schoolId": "e5f2d8e1-e9da-41f4-ac6c-397373e75938",
         "name": "电子科技大学成都学院",
         "maxRank": 180,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "08eaf13b-28b6-48b7-b257-c46faff5a597",
+        "name": "白城师范学院",
+        "maxRank": 159,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7836,9 +8480,30 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "fe75ea3d-7b8c-48d2-aafa-80323770625c",
+        "name": "福州工商学院",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "b0ee5185-8c8a-4894-9698-3bf85d9554b7",
         "name": "福州职业技术学院",
         "maxRank": 83,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "7451ddf1-bd95-4299-9d86-b9edafefc701",
+        "name": "福建商学院",
+        "maxRank": 154,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7860,6 +8525,17 @@
         "schoolId": "ab5a0a37-365d-44f6-8e26-73f52ae0a958",
         "name": "空军工程大学",
         "maxRank": 186,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "c3850308-6556-4fd7-9612-70284e590f70",
+        "name": "绍兴职业技术学院",
+        "maxRank": 169,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -7941,9 +8617,31 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "4de3745d-14de-4863-849b-62e6865fc870",
+        "name": "苏州工学院",
+        "maxRank": 116,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "5cb87ba5-6031-4416-8a3c-97af93bdbb31",
         "name": "菏泽学院",
         "maxRank": 208,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "f88b5b09-0fd5-4d89-b0d6-13e47111d624",
+        "name": "蒙古国立大学(Монгол Улсын Их Сургууль)",
+        "maxRank": 134,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -8110,17 +8808,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "b4d5f649-9041-47dd-889f-e8d1255761ad",
-        "name": "西安科技大学",
-        "maxRank": 153,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "4d649498-8e2b-4968-80aa-c03e3038f7e6",
         "name": "西安航空学院",
         "maxRank": 242,
@@ -8219,7 +8906,7 @@
     {
         "schoolId": "6212831c-95ed-44ba-afad-2f2bdeab0fce",
         "name": "赣东学院",
-        "maxRank": 181,
+        "maxRank": 131,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -8323,9 +9010,9 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "f041e06f-1d10-4e6e-9d9f-6358deb0453c",
-        "name": "郑州经贸学院",
-        "maxRank": 126,
+        "schoolId": "f9cac813-69e6-48cf-9c69-9dab81a37d42",
+        "name": "郑州工商学院",
+        "maxRank": 160,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -8337,6 +9024,26 @@
         "schoolId": "3862cb3b-b745-4b40-abcf-858df05e66f5",
         "name": "郑州航空工业管理学院",
         "maxRank": 216,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "46832caf-cd42-4750-ae4f-fd74ae084e82",
+        "name": "郑州龙湖一中",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "925dff0f-d026-400a-b21a-59a51df39ba0",
+        "name": "郑轻校友",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -8482,6 +9189,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "c9f05f77-be21-44b6-9399-52f868fe9bda",
+        "name": "重庆鲁能巴蜀中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "b14ad33c-d5f4-4265-b493-b53585fac99d",
         "name": "金华市丽泽中学",
         "championCount": 0,
@@ -8494,7 +9211,7 @@
     {
         "schoolId": "4ac92411-dcde-4895-9971-ea358b0656cc",
         "name": "金华职业技术大学",
-        "maxRank": 200,
+        "maxRank": 150,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -8539,6 +9256,36 @@
         "schoolId": "eb6ec19a-fbcf-4eab-a388-42ac1014da05",
         "name": "长江师范学院",
         "maxRank": 97,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "0ffeffed-5978-4566-bdc0-bd42312fc3a0",
+        "name": "长沙市中雅培粹学校",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "ebe0a23a-68ba-4629-8540-5f9a180ce2e7",
+        "name": "长沙市湘郡培粹实验中学",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "a2fded4f-c193-4a91-93d8-f496963df074",
+        "name": "长沙市长郡中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -8600,6 +9347,17 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "5e5730d5-5c70-4ce5-aa6c-36378fca77e1",
+        "name": "阳光学院",
+        "maxRank": 160,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "d3b02b64-9c6a-44e0-a05b-b0ee3b5883b4",
         "name": "陕西师范大学附属中学",
         "championCount": 0,
@@ -8632,6 +9390,16 @@
         "bronzeCount": 0
     },
     {
+        "schoolId": "176895a9-d8d0-4cf9-94b7-484cc45615e7",
+        "name": "青岛信竞打星",
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
         "schoolId": "15291ff9-645e-46a1-97d7-9ddfa7f8608d",
         "name": "青岛农业大学海都学院",
         "maxRank": 215,
@@ -8646,6 +9414,16 @@
         "schoolId": "d837e44f-94a3-48a5-a7c1-86ee99fe0eb0",
         "name": "青岛工学院",
         "maxRank": 150,
+        "championCount": 0,
+        "secCount": 0,
+        "thiCount": 0,
+        "goldCount": 0,
+        "silverCount": 0,
+        "bronzeCount": 0
+    },
+    {
+        "schoolId": "33d10d43-0b6e-4c8e-8fab-5cb5ef57079e",
+        "name": "青岛市城阳第一高级中学",
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
@@ -8685,17 +9463,6 @@
         "bronzeCount": 0
     },
     {
-        "schoolId": "cb0e4c6c-95db-42ae-88b9-7c0bfdb79c92",
-        "name": "香港城市大学（东莞）",
-        "maxRank": 118,
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
         "schoolId": "08c8fe76-72ea-418a-9dbf-65cbeac156dd",
         "name": "高中联合参赛",
         "championCount": 0,
@@ -8708,17 +9475,6 @@
     {
         "schoolId": "ac0f9b93-931e-4206-af45-4362e28f305a",
         "name": "高唐县第一中学",
-        "championCount": 0,
-        "secCount": 0,
-        "thiCount": 0,
-        "goldCount": 0,
-        "silverCount": 0,
-        "bronzeCount": 0
-    },
-    {
-        "schoolId": "3151351f-ca48-4e68-a7eb-972663660341",
-        "name": "黄冈师范学院",
-        "maxRank": 125,
         "championCount": 0,
         "secCount": 0,
         "thiCount": 0,
